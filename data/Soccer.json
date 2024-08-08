@@ -1,0 +1,572 @@
+[
+  {
+    "type": "Soccer",
+    "time": "2024-07-15 03:00:00+0800",
+    "match_name": "Spain vs England",
+    "team1": "Spain",
+    "team2": "England",
+    "main_bet_list": [
+      { "name": "Spain Winner", "odds": 2.53 },
+      { "name": "Draw", "odds": 2.81 },
+      { "name": "England Winner", "odds": 3.35 }
+    ],
+    "more_bet_list": [
+      { "name": "Spain +0", "odds": 1.68 },
+      { "name": "England -0", "odds": 2.25 },
+      { "name": "Spain +0.25", "odds": 1.51 },
+      { "name": "England -0.25", "odds": 2.42 },
+      { "name": "Spain -0.25", "odds": 2.12 },
+      { "name": "England +0.25", "odds": 1.81 },
+      { "name": "Spain -0.5", "odds": 2.35 },
+      { "name": "England +0.5", "odds": 1.58 },
+      { "name": "Over 1.75", "odds": 1.63 },
+      { "name": "Under 1.75", "odds": 2.27 },
+      { "name": "Over 2", "odds": 1.91 },
+      { "name": "Under 2", "odds": 1.99 },
+      { "name": "Over 2.25", "odds": 2.20 },
+      { "name": "Under 2.25", "odds": 1.70 },
+      { "name": "Over 2.5", "odds": 2.34 },
+      { "name": "Under 2.5", "odds": 1.56 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-07-15 08:00:00+0800",
+    "match_name": "Argentina vs Colombia",
+    "team1": "Argentina",
+    "team2": "Colombia",
+    "main_bet_list": [
+      { "name": "Argentina Winner", "odds": 2.13 },
+      { "name": "Draw", "odds": 2.9 },
+      { "name": "Colombia Winner", "odds": 4.25 }
+    ],
+    "more_bet_list": [
+      { "name": "Argentina -0", "odds": 1.44 },
+      { "name": "Colombia +0", "odds": 2.48 },
+      { "name": "Argentina -0.25", "odds": 1.78 },
+      { "name": "Colombia +0.25", "odds": 2.14 },
+      { "name": "Argentina -0.5", "odds": 2.12 },
+      { "name": "Colombia +0.5", "odds": 1.80 },
+      { "name": "Argentina -0.75", "odds": 2.37 },
+      { "name": "Colombia +0.75", "odds": 1.55 },
+      { "name": "Over 1.5", "odds": 1.62 },
+      { "name": "Under 1.5", "odds": 2.28 },
+      { "name": "Over 1.75", "odds": 1.81 },
+      { "name": "Under 1.75", "odds": 2.09 },
+      { "name": "Over 2", "odds": 2.12 },
+      { "name": "Under 2", "odds": 1.78 },
+      { "name": "Over 2.25", "odds": 2.33 },
+      { "name": "Under 2.25", "odds": 1.57 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-07-07 06:00:00+0800",
+    "match_name": "Colombia vs Panama",
+    "team1": "Colombia",
+    "team2": "Panama",
+    "main_bet_list": [
+      { "name": "Colombia Winner", "odds": 1.34 },
+      { "name": "Draw", "odds": 5.00 },
+      { "name": "Panama Winner", "odds": 10.00 }
+    ],
+    "more_bet_list": [
+      { "name": "Colombia -1", "odds": 1.48 },
+      { "name": "Panama +1", "odds": 2.44 },
+      { "name": "Colombia -1.25", "odds": 1.76 },
+      { "name": "Panama +1.25", "odds": 2.16 },
+      { "name": "Colombia -1.5", "odds": 2.05 },
+      { "name": "Panama +1.5", "odds": 1.87 },
+      { "name": "Colombia -1.75", "odds": 2.27 },
+      { "name": "Panama +1.75", "odds": 1.65 },
+      { "name": "Over 2.25", "odds": 1.68 },
+      { "name": "Under 2.25", "odds": 2.22 },
+      { "name": "Over 2.5", "odds": 1.90 },
+      { "name": "Under 2.5", "odds": 2.00 },
+      { "name": "Over 2.75", "odds": 2.16 },
+      { "name": "Under 2.75", "odds": 1.74 },
+      { "name": "Over 3", "odds": 2.37 },
+      { "name": "Under 3", "odds": 1.53 }
+    ]
+  },
+
+  {
+    "type": "Soccer",
+    "time": "2024-07-07 09:00:00+0800",
+    "match_name": "Brazil vs Uruguay",
+    "team1": "Brazil",
+    "team2": "Uruguay",
+    "main_bet_list": [
+      { "name": "Brazil Winner", "odds": 2.63 },
+      { "name": "Draw", "odds": 3.10 },
+      { "name": "Uruguay Winner", "odds": 2.90 }
+    ],
+    "more_bet_list": [
+      { "name": "Brazil +0", "odds": 1.82 },
+      { "name": "Uruguay -0", "odds": 2.10 },
+      { "name": "Brazil +0.25", "odds": 1.56 },
+      { "name": "Uruguay -0.25", "odds": 2.36 },
+      { "name": "Brazil -0.25", "odds": 2.19 },
+      { "name": "Uruguay +0.25", "odds": 1.73 },
+      { "name": "Brazil -0.5", "odds": 2.39 },
+      { "name": "Uruguay +0.5", "odds": 1.53 },
+      { "name": "Over 1.75", "odds": 1.60 },
+      { "name": "Under 1.75", "odds": 2.30 },
+      { "name": "Over 2", "odds": 1.81 },
+      { "name": "Under 2", "odds": 2.09 },
+      { "name": "Over 2.25", "odds": 2.14 },
+      { "name": "Under 2.25", "odds": 1.76 },
+      { "name": "Over 2.5", "odds": 2.30 },
+      { "name": "Under 2.5", "odds": 1.60 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-05-19 23:00:00+0800",
+    "match_name": "Man City vs West Ham",
+    "team1": "Man City",
+    "team2": "West Ham",
+    "main_bet_list": [
+      { "name": "Man City Winner", "odds": 1.1 },
+      { "name": "Draw", "odds": 11.0 },
+      { "name": "West Ham Winner", "odds": 20.0 }
+    ],
+    "more_bet_list": [
+      { "name": "Man City -2.5", "odds": 1.71 },
+      { "name": "West Ham +2.5", "odds": 2.22 },
+      { "name": "Man City -2.75", "odds": 1.92 },
+      { "name": "West Ham +2.75", "odds": 2.01 },
+      { "name": "Man City -3", "odds": 2.13 },
+      { "name": "West Ham +3", "odds": 1.8 },
+      { "name": "Man City -3.25", "odds": 2.29 },
+      { "name": "West Ham +3.25", "odds": 1.64 },
+      { "name": "Over 4", "odds": 1.68 },
+      { "name": "Under 4", "odds": 2.22 },
+      { "name": "Over 4.25", "odds": 1.96 },
+      { "name": "Under 4.25", "odds": 1.94 },
+      { "name": "Over 4.5", "odds": 2.13 },
+      { "name": "Under 4.5", "odds": 1.77 },
+      { "name": "Over 4.75", "odds": 2.31 },
+      { "name": "Under 4.75", "odds": 1.59 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-05-19 23:00:00+0800",
+    "match_name": "Arsenal vs Everton",
+    "team1": "Arsenal",
+    "team2": "Everton",
+    "main_bet_list": [
+      { "name": "Arsenal Winner", "odds": 1.14 },
+      { "name": "Draw", "odds": 8.4 },
+      { "name": "Everton Winner", "odds": 18.0 }
+    ],
+    "more_bet_list": [
+      { "name": "Arsenal -1.75", "odds": 1.53 },
+      { "name": "Everton +1.75", "odds": 2.4 },
+      { "name": "Arsenal -2", "odds": 1.66 },
+      { "name": "Everton +2", "odds": 2.27 },
+      { "name": "Arsenal -2.25", "odds": 1.91 },
+      { "name": "Everton +2.25", "odds": 2.02 },
+      { "name": "Arsenal -2.5", "odds": 2.15 },
+      { "name": "Everton +2.5", "odds": 1.78 },
+      { "name": "Over 3.25", "odds": 1.68 },
+      { "name": "Under 3.25", "odds": 2.22 },
+      { "name": "Over 3.5", "odds": 1.91 },
+      { "name": "Under 3.5", "odds": 1.99 },
+      { "name": "Over 3.75", "odds": 2.12 },
+      { "name": "Under 3.75", "odds": 1.78 },
+      { "name": "Over 4", "odds": 2.3 },
+      { "name": "Under 4", "odds": 1.6 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-05-19 23:00:00+0800",
+    "match_name": "Brentford vs Newcastle",
+    "team1": "Brentford",
+    "team2": "Newcastle",
+    "main_bet_list": [
+      { "name": "Brentford Winner", "odds": 2.73 },
+      { "name": "Draw", "odds": 4.05 },
+      { "name": "Newcastle Winner", "odds": 2.29 }
+    ],
+    "more_bet_list": [
+      { "name": "Brentford +0", "odds": 2.18 },
+      { "name": "Newcastle -0", "odds": 1.75 },
+      { "name": "Brentford +0.25", "odds": 1.92 },
+      { "name": "Newcastle -0.25", "odds": 2.01 },
+      { "name": "Brentford +0.5", "odds": 1.7 },
+      { "name": "Newcastle -0.5", "odds": 2.23 },
+      { "name": "Brentford +0.75", "odds": 1.56 },
+      { "name": "Newcastle -0.75", "odds": 2.37 },
+      { "name": "Over 3", "odds": 1.51 },
+      { "name": "Under 3", "odds": 2.39 },
+      { "name": "Over 3.25", "odds": 1.72 },
+      { "name": "Under 3.25", "odds": 2.18 },
+      { "name": "Over 3.5", "odds": 1.92 },
+      { "name": "Under 3.5", "odds": 1.98 },
+      { "name": "Over 3.75", "odds": 2.18 },
+      { "name": "Under 3.75", "odds": 1.72 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-05-19 23:00:00+0800",
+    "match_name": "Crystal Palace vs Aston Villa",
+    "team1": "Crystal Palace",
+    "team2": "Aston Villa",
+    "main_bet_list": [
+      { "name": "Crystal Palace Winner", "odds": 1.86 },
+      { "name": "Draw", "odds": 4.15 },
+      { "name": "Aston Villa Winner", "odds": 3.7 }
+    ],
+    "more_bet_list": [
+      { "name": "Crystal Palace -0.25", "odds": 1.64 },
+      { "name": "Aston Villa +0.25", "odds": 2.29 },
+      { "name": "Crystal Palace -0.5", "odds": 1.86 },
+      { "name": "Aston Villa +0.5", "odds": 2.07 },
+      { "name": "Crystal Palace -0.75", "odds": 2.07 },
+      { "name": "Aston Villa +0.75", "odds": 1.86 },
+      { "name": "Crystal Palace -1", "odds": 2.29 },
+      { "name": "Aston Villa +1", "odds": 1.65 },
+      { "name": "Over 3", "odds": 1.61 },
+      { "name": "Under 3", "odds": 2.29 },
+      { "name": "Over 3.25", "odds": 1.82 },
+      { "name": "Under 3.25", "odds": 2.08 },
+      { "name": "Over 3.5", "odds": 2.04 },
+      { "name": "Under 3.5", "odds": 1.86 },
+      { "name": "Over 3.75", "odds": 2.24 },
+      { "name": "Under 3.75", "odds": 1.66 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-05-19 23:00:00+0800",
+    "match_name": "Burnley vs Nottm Forest",
+    "team1": "Burnley",
+    "team2": "Nottm Forest",
+    "main_bet_list": [
+      { "name": "Burnley Winner", "odds": 2.81 },
+      { "name": "Draw", "odds": 3.85 },
+      { "name": "Nottm Forest Winner", "odds": 2.31 }
+    ],
+    "more_bet_list": [
+      { "name": "Burnley +0", "odds": 2.11 },
+      { "name": "Nottm Forest -0", "odds": 1.72 },
+      { "name": "Burnley +0.25", "odds": 1.92 },
+      { "name": "Nottm Forest -0.25", "odds": 2.01 },
+      { "name": "Burnley +0.5", "odds": 1.68 },
+      { "name": "Nottm Forest -0.5", "odds": 2.24 },
+      { "name": "Over 3", "odds": 1.78 },
+      { "name": "Under 3", "odds": 2.12 },
+      { "name": "Over 3.25", "odds": 2.0 },
+      { "name": "Under 3.25", "odds": 1.9 },
+      { "name": "Over 3.5", "odds": 2.24 },
+      { "name": "Under 3.5", "odds": 1.66 }
+    ]
+  },
+
+  {
+    "type": "Soccer",
+    "time": "2024-05-19 23:00:00+0800",
+    "match_name": "Chelsea vs Bournemouth",
+    "team1": "Chelsea",
+    "team2": "Bournemouth",
+    "main_bet_list": [
+      { "name": "Chelsea Winner", "odds": 1.46 },
+      { "name": "Draw", "odds": 5.4 },
+      { "name": "Bournemouth Winner", "odds": 5.7 }
+    ],
+    "more_bet_list": [
+      { "name": "Chelsea -1", "odds": 1.68 },
+      { "name": "Bournemouth +1", "odds": 2.25 },
+      { "name": "Chelsea -1.25", "odds": 1.89 },
+      { "name": "Bournemouth +1.25", "odds": 2.04 },
+      { "name": "Chelsea -1.5", "odds": 2.11 },
+      { "name": "Bournemouth +1.5", "odds": 1.82 },
+      { "name": "Chelsea -1.75", "odds": 2.29 },
+      { "name": "Bournemouth +1.75", "odds": 1.64 },
+      { "name": "Over 3.5", "odds": 1.58 },
+      { "name": "Under 3.5", "odds": 2.32 },
+      { "name": "Over 3.75", "odds": 1.71 },
+      { "name": "Under 3.75", "odds": 2.19 },
+      { "name": "Over 4", "odds": 1.86 },
+      { "name": "Under 4", "odds": 2.04 },
+      { "name": "Over 4.25", "odds": 2.19 },
+      { "name": "Under 4.25", "odds": 1.71 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-04-13 22:15:00+0800",
+    "match_name": "Rayo Vallecano vs Getafe",
+    "team1": "Rayo Vallecano",
+    "team2": "Getafe",
+    "main_bet_list": [
+      { "name": "Rayo Vallecano Winner", "odds": 2.33 },
+      { "name": "Draw", "odds": 3.0 },
+      { "name": "Getafe Winner", "odds": 3.45 }
+    ],
+    "more_bet_list": [
+      { "name": "Rayo Vallecano -0", "odds": 1.58 },
+      { "name": "Getafe +0", "odds": 2.34 },
+      { "name": "Rayo Vallecano -0.25", "odds": 1.97 },
+      { "name": "Getafe +0.25", "odds": 1.95 },
+      { "name": "Rayo Vallecano -0.5", "odds": 2.25 },
+      { "name": "Getafe +0.5", "odds": 1.67 },
+      { "name": "Rayo Vallecano -0.75", "odds": 2.43 },
+      { "name": "Getafe +0.75", "odds": 1.49 },
+      { "name": "Over 1.5", "odds": 1.56 },
+      { "name": "Under 1.5", "odds": 2.34 },
+      { "name": "Over 1.75", "odds": 1.73 },
+      { "name": "Under 1.75", "odds": 2.17 },
+      { "name": "Over 2", "odds": 2.02 },
+      { "name": "Under 2", "odds": 1.88 },
+      { "name": "Over 2.25", "odds": 2.25 },
+      { "name": "Under 2.25", "odds": 1.65 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-04-04 00:30:00+0800",
+    "match_name": "Mallorca vs Real Madrid",
+    "team1": "Mallorca",
+    "team2": "Real Madrid",
+    "main_bet_list": [
+      { "name": "Mallorca Winner", "odds": 5.1 },
+      { "name": "Draw", "odds": 3.5 },
+      { "name": "Real Madrid Winner", "odds": 1.75 }
+    ],
+    "more_bet_list": [
+      { "name": "Mallorca +0.25", "odds": 2.41 },
+      { "name": "Real Madrid -0.25", "odds": 1.51 },
+      { "name": "Mallorca +0.5", "odds": 2.17 },
+      { "name": "Real Madrid -0.5", "odds": 1.75 },
+      { "name": "Mallorca +0.75", "odds": 1.94 },
+      { "name": "Real Madrid -0.75", "odds": 1.98 },
+      { "name": "Mallorca +1", "odds": 1.64 },
+      { "name": "Real Madrid -1", "odds": 2.28 },
+      { "name": "Over 2", "odds": 1.63 },
+      { "name": "Under 2", "odds": 2.27 },
+      { "name": "Over 2.25", "odds": 1.91 },
+      { "name": "Under 2.25", "odds": 1.99 },
+      { "name": "Over 2.5", "odds": 2.14 },
+      { "name": "Under 2.5", "odds": 1.76 },
+      { "name": "Over 2.75", "odds": 2.35 },
+      { "name": "Under 2.75", "odds": 1.55 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-03-30 21:00:00+0800",
+    "match_name": "Getafe vs Sevilla",
+    "team1": "Getafe",
+    "team2": "Sevilla",
+    "main_bet_list": [
+      { "name": "Getafe Winner", "odds": 2.58 },
+      { "name": "Draw", "odds": 3.15 },
+      { "name": "Sevilla Winner", "odds": 2.92 }
+    ],
+    "more_bet_list": [
+      { "name": "Getafe +0", "odds": 1.8 },
+      { "name": "Sevilla -0", "odds": 2.14 },
+      { "name": "Getafe +0.25", "odds": 1.57 },
+      { "name": "Sevilla -0.25", "odds": 2.37 },
+      { "name": "Getafe -0.25", "odds": 2.2 },
+      { "name": "Sevilla +0.25", "odds": 1.74 },
+      { "name": "Getafe -0.5", "odds": 2.37 },
+      { "name": "Sevilla +0.5", "odds": 1.57 },
+      { "name": "Over 1.75", "odds": 1.61 },
+      { "name": "Under 1.75", "odds": 2.31 },
+      { "name": "Over 2", "odds": 1.78 },
+      { "name": "Under 2", "odds": 2.14 },
+      { "name": "Over 2.25", "odds": 2.11 },
+      { "name": "Under 2.25", "odds": 1.81 },
+      { "name": "Over 2.5", "odds": 2.32 },
+      { "name": "Under 2.5", "odds": 1.6 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-03-30 23:15:00+0800",
+    "match_name": "Almeria vs Osasuna",
+    "team1": "Almeria",
+    "team2": "Osasuna",
+    "main_bet_list": [
+      { "name": "Almeria Winner", "odds": 2.53 },
+      { "name": "Draw", "odds": 3.4 },
+      { "name": "Osasuna Winner", "odds": 2.79 }
+    ],
+    "more_bet_list": [
+      { "name": "Almeria +0", "odds": 1.8 },
+      { "name": "Osasuna -0", "odds": 2.13 },
+      { "name": "Almeria +0.25", "odds": 1.58 },
+      { "name": "Osasuna -0.25", "odds": 2.35 },
+      { "name": "Almeria -0.25", "odds": 2.18 },
+      { "name": "Osasuna +0.25", "odds": 1.75 },
+      { "name": "Almeria -0.5", "odds": 2.35 },
+      { "name": "Osasuna +0.5", "odds": 1.58 },
+      { "name": "Over 2", "odds": 1.58 },
+      { "name": "Under 2", "odds": 2.32 },
+      { "name": "Over 2.25", "odds": 1.85 },
+      { "name": "Under 2.25", "odds": 2.05 },
+      { "name": "Over 2.5", "odds": 2.08 },
+      { "name": "Under 2.5", "odds": 1.82 },
+      { "name": "Over 2.75", "odds": 2.29 },
+      { "name": "Under 2.75", "odds": 1.61 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-03-31 01:30:00+0800",
+    "match_name": "Valencia vs Mallorca",
+    "team1": "Valencia",
+    "team2": "Mallorca",
+    "main_bet_list": [
+      { "name": "Valencia Winner", "odds": 2.21 },
+      { "name": "Draw", "odds": 2.98 },
+      { "name": "Mallorca Winner", "odds": 3.8 }
+    ],
+    "more_bet_list": [
+      { "name": "Valencia -0", "odds": 1.52 },
+      { "name": "Mallorca +0", "odds": 2.41 },
+      { "name": "Valencia -0.25", "odds": 1.84 },
+      { "name": "Mallorca +0.25", "odds": 2.09 },
+      { "name": "Valencia -0.5", "odds": 2.18 },
+      { "name": "Mallorca +0.5", "odds": 1.75 },
+      { "name": "Valencia -0.75", "odds": 2.38 },
+      { "name": "Mallorca +0.75", "odds": 1.55 },
+      { "name": "Over 1.5", "odds": 1.67 },
+      { "name": "Under 1.5", "odds": 2.23 },
+      { "name": "Over 1.75", "odds": 1.88 },
+      { "name": "Under 1.75", "odds": 2.02 },
+      { "name": "Over 2", "odds": 2.2 },
+      { "name": "Under 2", "odds": 1.7 },
+      { "name": "Over 2.25", "odds": 2.38 },
+      { "name": "Under 2.25", "odds": 1.52 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-03-31 04:00:00+0800",
+    "match_name": "Barcelona vs Las Palmas",
+    "team1": "Barcelona",
+    "team2": "Las Palmas",
+    "main_bet_list": [
+      { "name": "Barcelona Winner", "odds": 1.28 },
+      { "name": "Draw", "odds": 5.8 },
+      { "name": "Las Palmas Winner", "odds": 11.0 }
+    ],
+    "more_bet_list": [
+      { "name": "Barcelona -1.25", "odds": 1.61 },
+      { "name": "Las Palmas +1.25", "odds": 2.32 },
+      { "name": "Barcelona -1.5", "odds": 1.81 },
+      { "name": "Las Palmas +1.5", "odds": 2.12 },
+      { "name": "Barcelona -1.75", "odds": 2.03 },
+      { "name": "Las Palmas +1.75", "odds": 1.9 },
+      { "name": "Barcelona -2", "odds": 2.29 },
+      { "name": "Las Palmas +2", "odds": 1.64 },
+      { "name": "Over 3", "odds": 1.65 },
+      { "name": "Under 3", "odds": 2.25 },
+      { "name": "Over 3.25", "odds": 1.9 },
+      { "name": "Under 3.25", "odds": 2.0 },
+      { "name": "Over 3.5", "odds": 2.04 },
+      { "name": "Under 3.5", "odds": 1.76 },
+      { "name": "Over 3.75", "odds": 2.31 },
+      { "name": "Under 3.75", "odds": 1.59 }
+    ]
+  },
+
+  {
+    "type": "Soccer",
+    "time": "2024-03-30 22:30:00+0800",
+    "match_name": "Monchengladbach vs SC Freiburg",
+    "team1": "Monchengladbach",
+    "team2": "SC Freiburg",
+    "main_bet_list": [
+      { "name": "Monchengladbach Winner", "odds": 2.13 },
+      { "name": "Draw", "odds": 3.65 },
+      { "name": "SC Freiburg Winner", "odds": 3.25 }
+    ],
+    "more_bet_list": [
+      { "name": "Monchengladbach -0", "odds": 1.57 },
+      { "name": "SC Freiburg +0", "odds": 2.36 },
+      { "name": "Monchengladbach -0.25", "odds": 1.87 },
+      { "name": "SC Freiburg +0.25", "odds": 2.06 },
+      { "name": "Monchengladbach -0.5", "odds": 2.12 },
+      { "name": "SC Freiburg +0.5", "odds": 1.81 },
+      { "name": "Monchengladbach -0.75", "odds": 2.29 },
+      { "name": "SC Freiburg +0.75", "odds": 1.64 },
+      { "name": "Over 2.5", "odds": 1.65 },
+      { "name": "Under 2.5", "odds": 2.25 },
+      { "name": "Over 2.75", "odds": 1.8 },
+      { "name": "Under 2.75", "odds": 2.1 },
+      { "name": "Over 3", "odds": 2.09 },
+      { "name": "Under 3", "odds": 1.81 },
+      { "name": "Over 3.25", "odds": 2.25 },
+      { "name": "Under 3.25", "odds": 1.65 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-03-30 22:30:00+0800",
+    "match_name": "Eintracht Frankfurt vs Union Berlin",
+    "team1": "Eintracht Frankfurt",
+    "team2": "Union Berlin",
+    "main_bet_list": [
+      { "name": "Eintracht Frankfurt Winner", "odds": 1.96 },
+      { "name": "Draw", "odds": 3.45 },
+      { "name": "Union Berlin Winner", "odds": 4.0 }
+    ],
+    "more_bet_list": [
+      { "name": "Eintracht Frankfurt -0", "odds": 1.43 },
+      { "name": "Union Berlin +0", "odds": 2.5 },
+      { "name": "Eintracht Frankfurt -0.25", "odds": 1.71 },
+      { "name": "Union Berlin +0.25", "odds": 2.22 },
+      { "name": "Eintracht Frankfurt -0.5", "odds": 1.96 },
+      { "name": "Union Berlin +0.5", "odds": 1.97 },
+      { "name": "Eintracht Frankfurt -0.75", "odds": 2.22 },
+      { "name": "Union Berlin +0.75", "odds": 1.71 },
+      { "name": "Over 2", "odds": 1.6 },
+      { "name": "Under 2", "odds": 2.3 },
+      { "name": "Over 2.25", "odds": 1.88 },
+      { "name": "Under 2.25", "odds": 2.02 },
+      { "name": "Over 2.5", "odds": 2.15 },
+      { "name": "Under 2.5", "odds": 1.75 },
+      { "name": "Over 2.75", "odds": 2.33 },
+      { "name": "Under 2.75", "odds": 1.57 }
+    ]
+  },
+
+  {
+    "type": "Soccer",
+    "time": "2024-03-29 22:30:00+0800",
+    "match_name": "Leverkusen vs Hoffenheim",
+    "team1": "Leverkusen",
+    "team2": "Hoffenheim",
+    "main_bet_list": [
+      { "name": "Leverkusen Winner", "odds": 1.28 },
+      { "name": "Draw", "odds": 5.8 },
+      { "name": "Hoffenheim Winner", "odds": 11.0 }
+    ],
+    "more_bet_list": [
+      { "name": "Leverkusen -1.25", "odds": 1.61 },
+      { "name": "Hoffenheim +1.25", "odds": 2.32 },
+      { "name": "Leverkusen -1.5", "odds": 1.81 },
+      { "name": "Hoffenheim +1.5", "odds": 2.12 },
+      { "name": "Leverkusen -1.75", "odds": 2.03 },
+      { "name": "Hoffenheim +1.75", "odds": 1.9 },
+      { "name": "Leverkusen -2", "odds": 2.29 },
+      { "name": "Hoffenheim +2", "odds": 1.64 },
+      { "name": "Over 3", "odds": 1.65 },
+      { "name": "Under 3", "odds": 2.25 },
+      { "name": "Over 3.25", "odds": 1.9 },
+      { "name": "Under 3.25", "odds": 2.0 },
+      { "name": "Over 3.5", "odds": 2.04 },
+      { "name": "Under 3.5", "odds": 1.76 },
+      { "name": "Over 3.75", "odds": 2.31 },
+      { "name": "Under 3.75", "odds": 1.59 }
+    ]
+  }
+]
