@@ -77,7 +77,7 @@ app.get("/test", (req, res) => {
 app.get("/user/:name", (req, res) => {
   const queryString = "SELECT * FROM userlist WHERE Username = ?";
   connection.query(queryString, [req.params.name], (err, result) => {
-    if (result.length === 0) {
+    if (!result || result.length === 0) {
       res.json({
         message: "User does not exist",
       });
@@ -137,7 +137,7 @@ app.get("/active/:name", (req, res) => {
   const queryString =
     "SELECT * FROM betlist WHERE Username = ? and Balance is NULL";
   connection.query(queryString, [req.params.name], (err, result) => {
-    if (result.length === 0) {
+    if (!result || result.length === 0) {
       res.json({
         message: "No Active Bets",
       });
@@ -150,20 +150,46 @@ app.get("/active/:name", (req, res) => {
   });
 });
 
+// app.get("/summary/:name", (req, res) => {
+//   const queryString =
+//     "SELECT * FROM betlist where Username = ? and Balance is not NULL order by id desc limit ?;";
+//   connection.query(queryString, [req.params.name, 25], (err, result) => {
+//     if (result.length === 0) {
+//       res.json({
+//         message: "No History Bets",
+//       });
+//     } else {
+//       res.json({
+//         message: "successful",
+//         data: result,
+//       });
+//     }
+//   });
+// });
+
 app.get("/summary/:name", (req, res) => {
   const queryString =
-    "SELECT * FROM betlist where Username = ? and Balance is not NULL order by id desc limit ?;";
+    "SELECT * FROM betlist WHERE Username = ? AND Balance IS NOT NULL ORDER BY id DESC LIMIT ?;";
+
   connection.query(queryString, [req.params.name, 25], (err, result) => {
-    if (result.length === 0) {
-      res.json({
-        message: "No History Bets",
-      });
-    } else {
-      res.json({
-        message: "successful",
-        data: result,
+    if (err) {
+      console.error("Database query error:", err);
+      return res.status(500).json({
+        message: "An error occurred while fetching the bet history.",
+        error: err.message,
       });
     }
+
+    if (!result || result.length === 0) {
+      return res.json({
+        message: "No History Bets",
+      });
+    }
+
+    res.json({
+      message: "successful",
+      data: result,
+    });
   });
 });
 
@@ -171,7 +197,7 @@ app.get("/balance/:name", (req, res) => {
   const queryString =
     "SELECT SUM(Balance) as balance FROM betlist WHERE Username = ?";
   connection.query(queryString, [req.params.name], (err, result) => {
-    if (result.length === 0) {
+    if (!result || result.length === 0) {
       res.json({
         message: "No History Bets",
       });
@@ -287,7 +313,7 @@ app.delete("/delete/:id", (req, res) => {
       return;
     }
 
-    if (result.length === 0) {
+    if (!result || result.length === 0) {
       res.json({
         message: "Bet List does not exist",
       });
