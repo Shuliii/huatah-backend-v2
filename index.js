@@ -78,6 +78,7 @@ app.get("/user/:name", (req, res) => {
   const queryString = "SELECT * FROM userlist WHERE Username = ?";
   connection.query(queryString, [req.params.name], (err, result) => {
     if (!result || result.length === 0) {
+      console.log("error");
       res.json({
         message: "User does not exist",
       });
