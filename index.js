@@ -7,14 +7,15 @@ const app = express();
 const bodyParser = require("body-parser");
 
 const allowedOrigins = [
-  "http://139.59.219.240:3000",
-  "http://huatah.co:3000",
-  "http://huatah.co",
+  "https://huatah.co",
+  /\.huatah\.co$/, // Allow any subdomain of huatah.co
+  // "http://139.59.219.240:3000",
+  // "http://huatah.co:3000",
 ];
 
 app.use(
   cors({
-    origin: allowedOrigins, // Allow requests from these origins
+    origin: "*", // Allow requests from these origins
     methods: ["GET", "POST", "PUT", "DELETE"], // Array of allowed methods
     allowedHeaders: ["Content-Type", "Authorization"], // Array of allowed headers
   })
@@ -77,17 +78,26 @@ app.get("/test", (req, res) => {
 app.get("/user/:name", (req, res) => {
   const queryString = "SELECT * FROM userlist WHERE Username = ?";
   connection.query(queryString, [req.params.name], (err, result) => {
-    if (!result || result.length === 0) {
-      console.log("error");
-      res.json({
-        message: "User does not exist",
-      });
-    } else {
-      res.json({
-        message: "successful",
-        data: result,
+    res.setHeader("Content-Type", "application/json"); // Ensure the response is JSON
+
+    if (err) {
+      console.error("Error executing query:", err);
+      return res.status(500).json({
+        message: "Internal server error",
+        error: err.message,
       });
     }
+
+    if (!result || result.length === 0) {
+      return res.status(404).json({
+        message: "User does not exist",
+      });
+    }
+
+    res.json({
+      message: "successful",
+      data: result,
+    });
   });
 });
 
@@ -263,7 +273,7 @@ app.post("/postbet", async (req, res) => {
   }
 });
 
-app.get("/Dota2", async (req, res) => {
+app.get("/bet/Dota2", async (req, res) => {
   const result = path.join(__dirname, "/data/Dota2.json");
   const data = await readFile(result);
   const filteredData = filterData(data);
@@ -271,7 +281,7 @@ app.get("/Dota2", async (req, res) => {
   // res.json({ data });
 });
 
-app.get("/CS", async (req, res) => {
+app.get("/bet/CS", async (req, res) => {
   const result = path.join(__dirname, "/data/CS.json");
   const data = await readFile(result);
   const filteredData = filterData(data);
@@ -279,7 +289,7 @@ app.get("/CS", async (req, res) => {
   // res.json({ data });
 });
 
-app.get("/NBA", async (req, res) => {
+app.get("/bet/NBA", async (req, res) => {
   const result = path.join(__dirname, "/data/NBA.json");
   const data = await readFile(result);
   const filteredData = filterData(data);
@@ -287,7 +297,7 @@ app.get("/NBA", async (req, res) => {
   // res.json({ data });
 });
 
-app.get("/Soccer", async (req, res) => {
+app.get("/bet/Soccer", async (req, res) => {
   const result = path.join(__dirname, "/data/Soccer.json");
   const data = await readFile(result);
   const filteredData = filterData(data);
@@ -295,12 +305,16 @@ app.get("/Soccer", async (req, res) => {
   // res.json({ data });
 });
 
-app.get("/Valorant", async (req, res) => {
-  const result = path.join(__dirname, "/data/Valorant.json");
-  const data = await readFile(result);
-  const filteredData = filterData(data);
-  res.json({ data: filteredData });
-  // res.json({ data });
+app.get("/bet/:name", async (req, res) => {
+  try {
+    const result = path.join(__dirname, `/data/${req.params.name}.json`);
+    const data = await readFile(result);
+    const filteredData = filterData(data);
+    res.json({ data: filteredData });
+  } catch (error) {
+    console.error("Error fetching bet data:", error);
+    res.status(500).json({ message: "Internal Server Error" });
+  }
 });
 
 app.delete("/delete/:id", (req, res) => {

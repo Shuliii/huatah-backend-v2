@@ -1,20 +1,20 @@
 [
   {
     "type": "Dota2",
-    "time": "2024-07-20 17:00:00+0800",
+    "time": "2024-08-29 15:00:00+0800",
     "match_name": "Falcons vs PSG Q Match",
     "team1": "Falcons",
     "team2": "PSG Q",
     "main_bet_list": [
-      { "name": "Falcons Winner", "odds": 1.20 },
+      { "name": "Falcons Winner", "odds": 1.2 },
       { "name": "PSG Q Winner", "odds": 4.12 }
     ],
     "more_bet_list": [
       { "name": "Falcons -1.5", "odds": 1.64 },
       { "name": "PSG Q +1.5", "odds": 2.16 },
       { "name": "Over 2.5", "odds": 2.25 },
-      { "name": "Under 2.5", "odds": 1.60 },
-      { "name": "Map score 2-0", "odds": 1.80 },
+      { "name": "Under 2.5", "odds": 1.6 },
+      { "name": "Map score 2-0", "odds": 1.8 },
       { "name": "Map score 2-1", "odds": 3.38 },
       { "name": "Map score 0-2", "odds": 7.66 },
       { "name": "Map score 1-2", "odds": 5.54 }
@@ -28,7 +28,7 @@
     "team2": "PSG Q",
     "main_bet_list": [
       { "name": "Falcons Winner", "odds": 1.28 },
-      { "name": "PSG Q Winner", "odds": 3.50 }
+      { "name": "PSG Q Winner", "odds": 3.5 }
     ],
     "more_bet_list": [
       { "name": "Falcons Kills -11.5", "odds": 2.04 },
@@ -59,7 +59,7 @@
     "team2": "PSG Q",
     "main_bet_list": [
       { "name": "Falcons Winner", "odds": 1.28 },
-      { "name": "PSG Q Winner", "odds": 3.50 }
+      { "name": "PSG Q Winner", "odds": 3.5 }
     ],
     "more_bet_list": [
       { "name": "Falcons Kills -11.5", "odds": 2.04 },
@@ -91,7 +91,7 @@
     "team2": "PSG Q",
     "main_bet_list": [
       { "name": "Falcons Winner", "odds": 1.28 },
-      { "name": "PSG Q Winner", "odds": 3.50 }
+      { "name": "PSG Q Winner", "odds": 3.5 }
     ],
     "more_bet_list": [
       { "name": "Falcons Kills -11.5", "odds": 2.04 },
@@ -175,7 +175,7 @@
     "team1": "GG",
     "team2": "Liquid",
     "main_bet_list": [
-      { "name": "GG Winner", "odds": 1.70 },
+      { "name": "GG Winner", "odds": 1.7 },
       { "name": "Liquid Winner", "odds": 2.06 }
     ],
     "more_bet_list": [
@@ -211,11 +211,11 @@
       { "name": "Total kills Over 43.5", "odds": 2.04 },
       { "name": "Total kills Under 43.5", "odds": 1.74 },
       { "name": "Total time Over 37", "odds": 1.76 },
-      { "name": "Total time Under 37", "odds": 2.00 },
+      { "name": "Total time Under 37", "odds": 2.0 },
       { "name": "Total time Over 38", "odds": 1.91 },
       { "name": "Total time Under 38", "odds": 1.85 },
       { "name": "Total time Over 39", "odds": 2.06 },
-      { "name": "Total time Under 39", "odds": 1.70 }
+      { "name": "Total time Under 39", "odds": 1.7 }
     ]
   },
   {
@@ -242,11 +242,11 @@
       { "name": "Total kills Over 43.5", "odds": 2.04 },
       { "name": "Total kills Under 43.5", "odds": 1.74 },
       { "name": "Total time Over 37", "odds": 1.76 },
-      { "name": "Total time Under 37", "odds": 2.00 },
+      { "name": "Total time Under 37", "odds": 2.0 },
       { "name": "Total time Over 38", "odds": 1.91 },
       { "name": "Total time Under 38", "odds": 1.85 },
       { "name": "Total time Over 39", "odds": 2.06 },
-      { "name": "Total time Under 39", "odds": 1.70 }
+      { "name": "Total time Under 39", "odds": 1.7 }
     ]
   },
 
@@ -274,11 +274,11 @@
       { "name": "Total kills Over 43.5", "odds": 2.04 },
       { "name": "Total kills Under 43.5", "odds": 1.74 },
       { "name": "Total time Over 37", "odds": 1.76 },
-      { "name": "Total time Under 37", "odds": 2.00 },
+      { "name": "Total time Under 37", "odds": 2.0 },
       { "name": "Total time Over 38", "odds": 1.91 },
       { "name": "Total time Under 38", "odds": 1.85 },
       { "name": "Total time Over 39", "odds": 2.06 },
-      { "name": "Total time Under 39", "odds": 1.70 }
+      { "name": "Total time Under 39", "odds": 1.7 }
     ]
   },
   {
