@@ -15,3 +15,8 @@ if [ -z "$CHECKCONTEXT" ]; then
 else
     kubectl rollout restart deployment huatah-backend-deployment || { echo "Kubernetes rollout restart failed"; exit 1; }
 fi
+
+#push to github
+git add .
+git commit -m "edit"
+git push
