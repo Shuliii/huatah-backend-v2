@@ -1,3 +1,4 @@
+#Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 # Build the Docker image
 try {
     docker build -t ricoharsono/huatah-backend:latest . | Out-String
