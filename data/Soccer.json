@@ -1,304 +1,288 @@
 [
   {
     "type": "Soccer",
-    "time": "2024-09-06 02:45:00+0800",
-    "match_name": "Portugal vs Croatia",
-    "team1": "Portugal",
-    "team2": "Croatia",
+    "time": "2024-09-10 00:00:00+0800",
+    "match_name": "Latvia vs Faroe Islands",
+    "team1": "Latvia",
+    "team2": "Faroe Islands",
     "main_bet_list": [
-      { "name": "Portugal Winner", "odds": 1.53 },
-      { "name": "Draw", "odds": 4.20 },
-      { "name": "Croatia Winner", "odds": 6.20 }
+      { "name": "Latvia Winner", "odds": 4.35 },
+      { "name": "Draw", "odds": 3.30 },
+      { "name": "Faroe Islands Winner", "odds": 1.93 }
     ],
     "more_bet_list": [
-      { "name": "Portugal -0.75", "odds": 1.70 },
-      { "name": "Croatia +0.75", "odds": 2.22 },
-      { "name": "Portugal -1", "odds": 1.94 },
-      { "name": "Croatia +1", "odds": 1.98 },
-      { "name": "Portugal -1.25", "odds": 2.22 },
-      { "name": "Croatia +1.25", "odds": 1.70 },
-      { "name": "Portugal -1.5", "odds": 2.36 },
-      { "name": "Croatia +1.5", "odds": 1.56 },
-      { "name": "Over 2.25", "odds": 1.64 },
-      { "name": "Under 2.25", "odds": 2.26 },
-      { "name": "Over 2.5", "odds": 1.81 },
-      { "name": "Under 2.5", "odds": 2.09 },
-      { "name": "Over 2.75", "odds": 2.03 },
-      { "name": "Under 2.75", "odds": 1.87 },
-      { "name": "Over 3", "odds": 2.27 },
-      { "name": "Under 3", "odds": 1.63 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2024-09-06 02:45:00+0800",
-    "match_name": "Scotland vs Poland",
-    "team1": "Scotland",
-    "team2": "Poland",
-    "main_bet_list": [
-      { "name": "Scotland Winner", "odds": 2.53 },
-      { "name": "Draw", "odds": 3.15 },
-      { "name": "Poland Winner", "odds": 2.96 }
-    ],
-    "more_bet_list": [
-      { "name": "Scotland +0", "odds": 1.83 },
-      { "name": "Poland -0", "odds": 2.09 },
-      { "name": "Scotland +0.25", "odds": 1.58 },
-      { "name": "Poland -0.25", "odds": 2.34 },
-      { "name": "Scotland -0.25", "odds": 2.18 },
-      { "name": "Poland +0.25", "odds": 1.74 },
-      { "name": "Scotland -0.5", "odds": 2.35 },
-      { "name": "Poland +0.5", "odds": 1.57 },
-      { "name": "Over 1.75", "odds": 1.57 },
-      { "name": "Under 1.75", "odds": 2.33 },
-      { "name": "Over 2", "odds": 1.79 },
-      { "name": "Under 2", "odds": 2.11 },
-      { "name": "Over 2.25", "odds": 2.08 },
-      { "name": "Under 2.25", "odds": 1.82 },
-      { "name": "Over 2.5", "odds": 2.28 },
-      { "name": "Under 2.5", "odds": 1.62 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2024-09-06 02:45:00+0800",
-    "match_name": "Denmark vs Switzerland",
-    "team1": "Denmark",
-    "team2": "Switzerland",
-    "main_bet_list": [
-      { "name": "Denmark Winner", "odds": 2.47 },
-      { "name": "Draw", "odds": 3.10 },
-      { "name": "Switzerland Winner", "odds": 3.10 }
-    ],
-    "more_bet_list": [
-      { "name": "Denmark +0", "odds": 1.73 },
-      { "name": "Switzerland -0", "odds": 2.19 },
-      { "name": "Denmark +0.25", "odds": 1.53 },
-      { "name": "Switzerland -0.25", "odds": 2.39 },
-      { "name": "Denmark -0.25", "odds": 2.12 },
-      { "name": "Switzerland +0.25", "odds": 1.80 },
-      { "name": "Denmark -0.5", "odds": 2.32 },
-      { "name": "Switzerland +0.5", "odds": 1.6 },
-      { "name": "Over 1.75", "odds": 1.60 },
-      { "name": "Under 1.75", "odds": 2.30 },
+      { "name": "Latvia +0.25", "odds": 2.25 },
+      { "name": "Faroe Islands -0.25", "odds": 1.67 },
+      { "name": "Latvia +0.5", "odds": 1.99 },
+      { "name": "Faroe Islands -0.5", "odds": 1.93 },
+      { "name": "Latvia +0.75", "odds": 1.75 },
+      { "name": "Faroe Islands -0.75", "odds": 2.17 },
+      { "name": "Over 1.75", "odds": 1.62 },
+      { "name": "Under 1.75", "odds": 2.28 },
       { "name": "Over 2", "odds": 1.86 },
       { "name": "Under 2", "odds": 2.04 },
       { "name": "Over 2.25", "odds": 2.16 },
-      { "name": "Under 2.25", "odds": 1.74 },
-      { "name": "Over 2.5", "odds": 2.33 },
-      { "name": "Under 2.5", "odds": 1.57 }
+      { "name": "Under 2.25", "odds": 1.74 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-09-10 02:45:00+0800",
+    "match_name": "Ireland vs Greece",
+    "team1": "Ireland",
+    "team2": "Greece",
+    "main_bet_list": [
+      { "name": "Ireland Winner", "odds": 1.49 },
+      { "name": "Draw", "odds": 4.35 },
+      { "name": "Greece Winner", "odds": 6.80 }
+    ],
+    "more_bet_list": [
+      { "name": "Ireland -0.75", "odds": 1.61 },
+      { "name": "Greece +0.75", "odds": 2.31 },
+      { "name": "Ireland -1", "odds": 1.80 },
+      { "name": "Greece +1", "odds": 2.12 },
+      { "name": "Ireland -1.25", "odds": 2.12 },
+      { "name": "Greece +1.25", "odds": 1.80 },
+      { "name": "Ireland -1.5", "odds": 2.28 },
+      { "name": "Greece +1.5", "odds": 1.64 },
+      { "name": "Over 2.25", "odds": 1.58 },
+      { "name": "Under 2.25", "odds": 2.32 },
+      { "name": "Over 2.5", "odds": 1.78 },
+      { "name": "Under 2.5", "odds": 2.12 },
+      { "name": "Over 2.75", "odds": 2.01 },
+      { "name": "Under 2.75", "odds": 1.89 },
+      { "name": "Over 3", "odds": 2.25 },
+      { "name": "Under 3", "odds": 1.65 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-09-10 02:45:00+0800",
+    "match_name": "Albania vs Georgia",
+    "team1": "Albania",
+    "team2": "Georgia",
+    "main_bet_list": [
+      { "name": "Albania Winner", "odds": 1.84 },
+      { "name": "Draw", "odds": 3.8 },
+      { "name": "Georgia Winner", "odds": 4.10 }
+    ],
+    "more_bet_list": [
+      { "name": "Albania -0.25", "odds": 1.61 },
+      { "name": "Georgia +0.25", "odds": 2.31 },
+      { "name": "Albania -0.5", "odds": 1.84 },
+      { "name": "Georgia +0.5", "odds": 2.08 },
+      { "name": "Albania -0.75", "odds": 2.10 },
+      { "name": "Georgia +0.75", "odds": 1.82 },
+      { "name": "Albania -1", "odds": 2.34 },
+      { "name": "Georgia +1", "odds": 1.58 },
+      { "name": "Over 2.25", "odds": 1.60 },
+      { "name": "Under 2.25", "odds": 2.30 },
+      { "name": "Over 2.5", "odds": 1.81 },
+      { "name": "Under 2.5", "odds": 2.09 },
+      { "name": "Over 2.75", "odds": 2.04 },
+      { "name": "Under 2.75", "odds": 1.86 },
+      { "name": "Over 3", "odds": 2.30 },
+      { "name": "Under 3", "odds": 1.60 }
     ]
   },
 
   {
     "type": "Soccer",
-    "time": "2024-09-06 02:45:00+0800",
-    "match_name": "Serbia vs Spain",
-    "team1": "Serbia",
-    "team2": "Spain",
+    "time": "2024-09-10 02:45:00+0800",
+    "match_name": "England vs Finland",
+    "team1": "England",
+    "team2": "Finland",
     "main_bet_list": [
-      { "name": "Serbia Winner", "odds": 5.70 },
-      { "name": "Draw", "odds": 3.9 },
-      { "name": "Spain Winner", "odds": 1.62 }
+      { "name": "England Winner", "odds": 1.33 },
+      { "name": "Draw", "odds": 4.95 },
+      { "name": "Finland Winner", "odds": 10.00 }
     ],
     "more_bet_list": [
-      { "name": "Serbia +0.75", "odds": 2.11 },
-      { "name": "Spain -0.75", "odds": 1.81 },
-      { "name": "Serbia +1", "odds": 1.82 },
-      { "name": "Spain -1", "odds": 2.10 },
-      { "name": "Serbia +1.25", "odds": 1.63 },
-      { "name": "Spain -1.25", "odds": 2.29 },
-      { "name": "Serbia +1.5", "odds": 1.51 },
-      { "name": "Spain -1.5", "odds": 2.41 },
-      { "name": "Over 2", "odds": 1.48 },
-      { "name": "Under 2", "odds": 2.42 },
-      { "name": "Over 2.25", "odds": 1.70 },
-      { "name": "Under 2.25", "odds": 2.20 },
+      { "name": "England -1", "odds": 1.55 },
+      { "name": "Finland +1", "odds": 2.37 },
+      { "name": "England -1.25", "odds": 1.78 },
+      { "name": "Finland +1.25", "odds": 2.14 },
+      { "name": "England -1.5", "odds": 2.06 },
+      { "name": "Finland +1.5", "odds": 1.86 },
+      { "name": "England -1.75", "odds": 2.30 },
+      { "name": "Finland +1.75", "odds": 1.62 },
+      { "name": "Over 2", "odds": 1.51 },
+      { "name": "Under 2", "odds": 2.39 },
+      { "name": "Over 2.25", "odds": 1.76 },
+      { "name": "Under 2.25", "odds": 2.14 },
+      { "name": "Over 2.5", "odds": 2.02 },
+      { "name": "Under 2.5", "odds": 1.88 },
+      { "name": "Over 2.75", "odds": 2.26 },
+      { "name": "Under 2.75", "odds": 1.64 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-09-10 02:45:00+0800",
+    "match_name": "Czechia vs Ukraine",
+    "team1": "Czechia",
+    "team2": "Ukraine",
+    "main_bet_list": [
+      { "name": "Czechia Winner", "odds": 1.27 },
+      { "name": "Draw", "odds": 5.5 },
+      { "name": "Ukraine Winner", "odds": 13.00 }
+    ],
+    "more_bet_list": [
+      { "name": "Czechia -1.25", "odds": 1.63 },
+      { "name": "Ukraine +1.25", "odds": 2.29 },
+      { "name": "Czechia -1.5", "odds": 1.86 },
+      { "name": "Ukraine +1.5", "odds": 2.06 },
+      { "name": "Czechia -1.75", "odds": 2.09 },
+      { "name": "Ukraine +1.75", "odds": 1.83 },
+      { "name": "Over 2.5", "odds": 1.80 },
+      { "name": "Under 2.5", "odds": 2.10 },
+      { "name": "Over 2.75", "odds": 2.04 },
+      { "name": "Under 2.75", "odds": 1.86 },
+      { "name": "Over 3", "odds": 2.26 },
+      { "name": "Under 3", "odds": 1.64 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-09-10 02:45:00+0800",
+    "match_name": "Andorra vs Malta",
+    "team1": "Andorra",
+    "team2": "Malta",
+    "main_bet_list": [
+      { "name": "Andorra Winner", "odds": 9.60 },
+      { "name": "Draw", "odds": 5.30 },
+      { "name": "Malta Winner", "odds": 1.33 }
+    ],
+    "more_bet_list": [
+      { "name": "Andorra +1.25", "odds": 2.22 },
+      { "name": "Malta -1.25", "odds": 1.70 },
+      { "name": "Andorra +1.5", "odds": 1.96 },
+      { "name": "Malta -1.5", "odds": 1.96 },
+      { "name": "Andorra +1.75", "odds": 1.70 },
+      { "name": "Malta -1.75", "odds": 2.22 },
+      { "name": "Andorra +2", "odds": 1.50 },
+      { "name": "Malta -2", "odds": 2.42 },
+      { "name": "Over 2.5", "odds": 1.64 },
+      { "name": "Under 2.5", "odds": 2.26 },
+      { "name": "Over 2.75", "odds": 1.77 },
+      { "name": "Under 2.75", "odds": 2.13 },
+      { "name": "Over 3", "odds": 2.05 },
+      { "name": "Under 3", "odds": 1.85 },
+      { "name": "Over 3.25", "odds": 2.25 },
+      { "name": "Under 3.25", "odds": 1.65 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-09-10 02:45:00+0800",
+    "match_name": "Netherlands vs Germany",
+    "team1": "Netherlands",
+    "team2": "Germany",
+    "main_bet_list": [
+      { "name": "Netherlands Winner", "odds": 2.35 },
+      { "name": "Draw", "odds": 3.50 },
+      { "name": "Germany Winner", "odds": 2.96 }
+    ],
+    "more_bet_list": [
+      { "name": "Netherlands +0", "odds": 1.69 },
+      { "name": "Germany -0", "odds": 2.23 },
+      { "name": "Netherlands +0.25", "odds": 1.51 },
+      { "name": "Germany -0.25", "odds": 2.41 },
+      { "name": "Netherlands -0.25", "odds": 2.03 },
+      { "name": "Germany +0.25", "odds": 1.89 },
+      { "name": "Netherlands -0.5", "odds": 2.26 },
+      { "name": "Germany +0.5", "odds": 1.66 },
+      { "name": "Over 2.25", "odds": 1.67 },
+      { "name": "Under 2.25", "odds": 2.23 },
+      { "name": "Over 2.5", "odds": 1.90 },
+      { "name": "Under 2.5", "odds": 2.00 },
+      { "name": "Over 2.75", "odds": 2.12 },
+      { "name": "Under 2.75", "odds": 1.78 },
+      { "name": "Over 3", "odds": 2.35 },
+      { "name": "Under 3", "odds": 1.55 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-09-10 02:45:00+0800",
+    "match_name": "Hungray vs Bosnia",
+    "team1": "Hungray",
+    "team2": "Bosnia",
+    "main_bet_list": [
+      { "name": "Hungray Winner", "odds": 3.70 },
+      { "name": "Draw", "odds": 3.1 },
+      { "name": "Bosnia Winner", "odds": 2.19 }
+    ],
+    "more_bet_list": [
+      { "name": "Hungray +0", "odds": 2.35 },
+      { "name": "Bosnia -0", "odds": 1.57 },
+      { "name": "Hungray +0.25", "odds": 2.06 },
+      { "name": "Bosnia -0.25", "odds": 1.86 },
+      { "name": "Hungray +0.5", "odds": 1.76 },
+      { "name": "Bosnia -0.5", "odds": 2.14 },
+      { "name": "Hungray +0.75", "odds": 1.52 },
+      { "name": "Bosnia -0.75", "odds": 2.40 },
+      { "name": "Over 1.75", "odds": 1.63 },
+      { "name": "Under 1.75", "odds": 2.27 },
+      { "name": "Over 2", "odds": 1.92 },
+      { "name": "Under 2", "odds": 1.98 },
+      { "name": "Over 2.25", "odds": 2.15 },
+      { "name": "Under 2.25", "odds": 1.75 },
+      { "name": "Over 2.5", "odds": 2.36 },
+      { "name": "Under 2.5", "odds": 1.54 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-09-07 02:45:00+0800",
+    "match_name": "N. Macedonia vs Armenia",
+    "team1": "N. Macedonia",
+    "team2": "Armenia",
+    "main_bet_list": [
+      { "name": "N. Macedonia Winner", "odds": 1.36 },
+      { "name": "Draw", "odds": 4.80 },
+      { "name": "Armenia Winner", "odds": 9.10 }
+    ],
+    "more_bet_list": [
+      { "name": "N. Macedonia -1", "odds": 1.60 },
+      { "name": "Armenia +1", "odds": 2.32 },
+      { "name": "N. Macedonia -1.25", "odds": 1.90 },
+      { "name": "Armenia +1.25", "odds": 2.02 },
+      { "name": "N. Macedonia -1.5", "odds": 2.16 },
+      { "name": "Armenia +1.5", "odds": 1.76 },
+      { "name": "Over 2.25", "odds": 1.76 },
+      { "name": "Under 2.25", "odds": 2.14 },
       { "name": "Over 2.5", "odds": 1.97 },
       { "name": "Under 2.5", "odds": 1.93 },
       { "name": "Over 2.75", "odds": 2.20 },
       { "name": "Under 2.75", "odds": 1.70 }
     ]
   },
-  {
-    "type": "Soccer",
-    "time": "2024-09-01 23:30:00+0800",
-    "match_name": "Bayern vs SC Freiburg",
-    "team1": "Bayern",
-    "team2": "SC Freiburg",
-    "main_bet_list": [
-      { "name": "Bayern Winner", "odds": 1.21 },
-      { "name": "Draw", "odds": 7.30 },
-      { "name": "SC Freiburg Winner", "odds": 11.00 }
-    ],
-    "more_bet_list": [
-      { "name": "Bayern -1.75", "odds": 1.68 },
-      { "name": "SC Freiburg +1.75", "odds": 2.24 },
-      { "name": "Bayern -2", "odds": 1.87 },
-      { "name": "SC Freiburg +2", "odds": 2.05 },
-      { "name": "Bayern -2.25", "odds": 2.10 },
-      { "name": "SC Freiburg +2.25", "odds": 1.82 },
-      { "name": "Bayern -2.5", "odds": 2.28 },
-      { "name": "SC Freiburg +2.5", "odds": 1.64 },
-      { "name": "Over 3.5", "odds": 1.69 },
-      { "name": "Under 3.5", "odds": 2.21 },
-      { "name": "Over 3.75", "odds": 1.90 },
-      { "name": "Under 3.75", "odds": 2.00 },
-      { "name": "Over 4", "odds": 2.14 },
-      { "name": "Under 4", "odds": 1.76 },
-      { "name": "Over 4.25", "odds": 2.27 },
-      { "name": "Under 4.25", "odds": 1.63 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2024-08-31 22:00:00+0800",
-    "match_name": "Everton vs Bournemouth",
-    "team1": "Everton",
-    "team2": "Bournemouth",
-    "main_bet_list": [
-      { "name": "Everton Winner", "odds": 2.89 },
-      { "name": "Draw", "odds": 3.50 },
-      { "name": "Bournemouth Winner", "odds": 2.40 }
-    ],
-    "more_bet_list": [
-      { "name": "Everton -0", "odds": 2.09 },
-      { "name": "Bournemouth +0", "odds": 1.81 },
-      { "name": "Everton -0.25", "odds": 2.28 },
-      { "name": "Bournemouth +0.25", "odds": 1.62 },
-      { "name": "Everton +0.25", "odds": 1.77 },
-      { "name": "Bournemouth -0.25", "odds": 2.13 },
-      { "name": "Everton +0.5", "odds": 1.61 },
-      { "name": "Bournemouth -0.5", "odds": 2.29 },
-      { "name": "Over 2.25", "odds": 1.63 },
-      { "name": "Under 2.25", "odds": 2.25 },
-      { "name": "Over 2.5", "odds": 1.90 },
-      { "name": "Under 2.5", "odds": 1.98 },
-      { "name": "Over 2.75", "odds": 2.13 },
-      { "name": "Under 2.75", "odds": 1.75 },
-      { "name": "Over 3", "odds": 2.35 },
-      { "name": "Under 3", "odds": 1.53 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2024-09-01 00:30:00+0800",
-    "match_name": "West Ham vs Man City",
-    "team1": "West Ham",
-    "team2": "Man City",
-    "main_bet_list": [
-      { "name": "West Ham Winner", "odds": 7.20 },
-      { "name": "Draw", "odds": 5.40 },
-      { "name": "Man City Winner", "odds": 1.37 }
-    ],
-    "more_bet_list": [
-      { "name": "West Ham +1", "odds": 2.37 },
-      { "name": "Man City -1", "odds": 1.53 },
-      { "name": "West Ham +1.25", "odds": 2.15 },
-      { "name": "Man City -1.25", "odds": 1.75 },
-      { "name": "West Ham +1.5", "odds": 1.9 },
-      { "name": "Man City -1.5", "odds": 2.00 },
-      { "name": "West Ham +1.75", "odds": 1.67 },
-      { "name": "Man City -1.75", "odds": 2.23 },
-      { "name": "Over 2.75", "odds": 1.56 },
-      { "name": "Under 2.75", "odds": 2.32 },
-      { "name": "Over 3", "odds": 1.71 },
-      { "name": "Under 3", "odds": 2.17 },
-      { "name": "Over 3.25", "odds": 1.96 },
-      { "name": "Under 3.25", "odds": 1.92 },
-      { "name": "Over 3.5", "odds": 2.18 },
-      { "name": "Under 3.5", "odds": 1.70 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2024-08-31 21:30:00+0800",
-    "match_name": "Werder vs Dortmund",
-    "team1": "Werder",
-    "team2": "Dortmund",
-    "main_bet_list": [
-      { "name": "Werder Winner", "odds": 3.80 },
-      { "name": "Draw", "odds": 4.00 },
-      { "name": "Dortmund Winner", "odds": 1.86 }
-    ],
-    "more_bet_list": [
-      { "name": "Werder +0.25", "odds": 2.26 },
-      { "name": "Dortmund -0.25", "odds": 1.64 },
-      { "name": "Werder +0.5", "odds": 2.04 },
-      { "name": "Dortmund -0.5", "odds": 1.86 },
-      { "name": "Werder +0.75", "odds": 1.8 },
-      { "name": "Dortmund -0.75", "odds": 2.10 },
-      { "name": "Werder +1", "odds": 1.64 },
-      { "name": "Dortmund -1", "odds": 2.26 },
-      { "name": "Over 3", "odds": 1.68 },
-      { "name": "Under 3", "odds": 2.20 },
-      { "name": "Over 3.25", "odds": 1.90 },
-      { "name": "Under 3.25", "odds": 1.98 },
-      { "name": "Over 3.5", "odds": 2.11 },
-      { "name": "Under 3.5", "odds": 1.77 },
-      { "name": "Over 3.75", "odds": 2.28 },
-      { "name": "Under 3.75", "odds": 1.60 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2024-08-31 21:30:00+0800",
-    "match_name": "Holstein Kiel vs Wolfsburg",
-    "team1": "Holstein Kiel",
-    "team2": "Wolfsburg",
-    "main_bet_list": [
-      { "name": "Holstein Kiel Winner", "odds": 3.10 },
-      { "name": "Draw", "odds": 3.60 },
-      { "name": "Wolfsburg Winner", "odds": 2.23 }
-    ],
-    "more_bet_list": [
-      { "name": "Holstein Kiel +0", "odds": 2.25 },
-      { "name": "Wolfsburg -0", "odds": 1.65 },
-      { "name": "Holstein Kiel +0.25", "odds": 1.94 },
-      { "name": "Wolfsburg -0.25", "odds": 1.96 },
-      { "name": "Holstein Kiel +0.5", "odds": 1.71 },
-      { "name": "Wolfsburg -0.5", "odds": 2.19 },
-      { "name": "Holstein Kiel +0.75", "odds": 1.57 },
-      { "name": "Wolfsburg -0.75", "odds": 2.33 },
-      { "name": "Over 2.5", "odds": 1.71 },
-      { "name": "Under 2.5", "odds": 2.17 },
-      { "name": "Over 2.75", "odds": 1.91 },
-      { "name": "Under 2.75", "odds": 1.97 },
-      { "name": "Over 3", "odds": 2.15 },
-      { "name": "Under 3", "odds": 1.73 },
-      { "name": "Over 3.25", "odds": 2.32 },
-      { "name": "Under 3.25", "odds": 1.56 }
-    ]
-  },
 
   {
     "type": "Soccer",
-    "time": "2024-08-31 21:30:00+0800",
-    "match_name": "Stuttgart vs Mainz",
-    "team1": "Stuttgart",
-    "team2": "Mainz",
+    "time": "2024-09-07 09:30:00+0800",
+    "match_name": "Peru vs Colombia",
+    "team1": "Peru",
+    "team2": "Colombia",
     "main_bet_list": [
-      { "name": "Stuttgart Winner", "odds": 1.63 },
-      { "name": "Draw", "odds": 4.15 },
-      { "name": "Mainz Winner", "odds": 5.1 }
+      { "name": "Peru Winner", "odds": 5.30 },
+      { "name": "Draw", "odds": 3.20 },
+      { "name": "Colombia Winner", "odds": 1.82 }
     ],
     "more_bet_list": [
-      { "name": "Stuttgart -0.5", "odds": 1.63 },
-      { "name": "Mainz +0.5", "odds": 2.27 },
-      { "name": "Stuttgart -0.75", "odds": 1.79 },
-      { "name": "Mainz +0.75", "odds": 2.11 },
-      { "name": "Stuttgart -1", "odds": 2.07 },
-      { "name": "Mainz +1", "odds": 1.83 },
-      { "name": "Stuttgart -1.25", "odds": 2.27 },
-      { "name": "Mainz +1.25", "odds": 1.63 },
-      { "name": "Over 2.5", "odds": 1.62 },
-      { "name": "Under 2.5", "odds": 2.26 },
-      { "name": "Over 2.75", "odds": 1.75 },
-      { "name": "Under 2.75", "odds": 2.13 },
-      { "name": "Over 3", "odds": 2.03 },
-      { "name": "Under 3", "odds": 1.85 },
-      { "name": "Over 3.25", "odds": 2.23 },
-      { "name": "Under 3.25", "odds": 1.65 }
+      { "name": "Peru +0.25", "odds": 2.37 },
+      { "name": "Colombia -0.25", "odds": 1.55 },
+      { "name": "Peru +0.5", "odds": 2.10 },
+      { "name": "Colombia -0.5", "odds": 1.82 },
+      { "name": "Peru +0.75", "odds": 1.8 },
+      { "name": "Colombia -0.75", "odds": 2.12 },
+      { "name": "Over 1.75", "odds": 1.84 },
+      { "name": "Under 1.75", "odds": 2.06 },
+      { "name": "Over 2", "odds": 2.10 },
+      { "name": "Under 2", "odds": 1.8 },
+      { "name": "Over 2.25", "odds": 2.32 },
+      { "name": "Under 2.25", "odds": 1.58 }
     ]
   },
   {
