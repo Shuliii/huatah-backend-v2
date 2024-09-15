@@ -85,7 +85,7 @@
 
   {
     "type": "Dota2",
-    "time": "2024-09-15 17:55:00+0800",
+    "time": "2024-09-15 18:40:00+0800",
     "match_name": "GG vs Tundra Map3",
     "team1": "GG",
     "team2": "Tundra",
@@ -117,15 +117,15 @@
   {
     "type": "Dota2",
     "time": "2024-09-14 19:10:00+0800",
-    "match_name": "Tundra vs XG Match",
-    "team1": "Tundra",
+    "match_name": "Liquid vs XG Match",
+    "team1": "Liquid",
     "team2": "XG",
     "main_bet_list": [
-      { "name": "Tundra Winner", "odds": 2.44 },
+      { "name": "Liquid Winner", "odds": 2.44 },
       { "name": "XG Winner", "odds": 1.55 }
     ],
     "more_bet_list": [
-      { "name": "Tundra +1.5", "odds": 1.51 },
+      { "name": "Liquid +1.5", "odds": 1.51 },
       { "name": "XG -1.5", "odds": 2.49 },
       { "name": "Over 2.5", "odds": 2.11 },
       { "name": "Under 2.5", "odds": 1.70 },
@@ -138,19 +138,19 @@
   {
     "type": "Dota2",
     "time": "2024-09-14 19:10:00+0800",
-    "match_name": "Tundra vs XG Map1",
-    "team1": "Tundra",
+    "match_name": "Liquid vs XG Map1",
+    "team1": "Liquid",
     "team2": "XG",
     "main_bet_list": [
-      { "name": "Tundra Winner", "odds": 2.28 },
+      { "name": "Liquid Winner", "odds": 2.28 },
       { "name": "XG Winner", "odds": 1.60 }
     ],
     "more_bet_list": [
-      { "name": "Tundra Kills +11.5", "odds": 2.05 },
+      { "name": "Liquid Kills +11.5", "odds": 2.05 },
       { "name": "XG Kills -11.5", "odds": 1.75 },
-      { "name": "Tundra Kills +12.5", "odds": 1.88 },
+      { "name": "Liquid Kills +12.5", "odds": 1.88 },
       { "name": "XG Kills -12.5", "odds": 1.88 },
-      { "name": "Tundra Kills +13.5", "odds": 1.76 },
+      { "name": "Liquid Kills +13.5", "odds": 1.76 },
       { "name": "XG Kills -13.5", "odds": 2.04 },
       { "name": "Total kills Over 37.5", "odds": 1.75 },
       { "name": "Total kills Under 37.5", "odds": 2.05 },
@@ -169,19 +169,19 @@
   {
     "type": "Dota2",
     "time": "2024-09-14 19:50:00+0800",
-    "match_name": "Tundra vs XG Map2",
-    "team1": "Tundra",
+    "match_name": "Liquid vs XG Map2",
+    "team1": "Liquid",
     "team2": "XG",
     "main_bet_list": [
-      { "name": "Tundra Winner", "odds": 2.28 },
+      { "name": "Liquid Winner", "odds": 2.28 },
       { "name": "XG Winner", "odds": 1.60 }
     ],
     "more_bet_list": [
-      { "name": "Tundra Kills +11.5", "odds": 2.05 },
+      { "name": "Liquid Kills +11.5", "odds": 2.05 },
       { "name": "XG Kills -11.5", "odds": 1.75 },
-      { "name": "Tundra Kills +12.5", "odds": 1.88 },
+      { "name": "Liquid Kills +12.5", "odds": 1.88 },
       { "name": "XG Kills -12.5", "odds": 1.88 },
-      { "name": "Tundra Kills +13.5", "odds": 1.76 },
+      { "name": "Liquid Kills +13.5", "odds": 1.76 },
       { "name": "XG Kills -13.5", "odds": 2.04 },
       { "name": "Total kills Over 37.5", "odds": 1.75 },
       { "name": "Total kills Under 37.5", "odds": 2.05 },
@@ -200,19 +200,19 @@
   {
     "type": "Dota2",
     "time": "2024-09-14 20:30:00+0800",
-    "match_name": "Tundra vs XG Map3",
-    "team1": "Tundra",
+    "match_name": "Liquid vs XG Map3",
+    "team1": "Liquid",
     "team2": "XG",
     "main_bet_list": [
-      { "name": "Tundra Winner", "odds": 2.28 },
+      { "name": "Liquid Winner", "odds": 2.28 },
       { "name": "XG Winner", "odds": 1.60 }
     ],
     "more_bet_list": [
-      { "name": "Tundra Kills +6.5", "odds": 2.05 },
+      { "name": "Liquid Kills +6.5", "odds": 2.05 },
       { "name": "XG Kills -6.5", "odds": 1.75 },
-      { "name": "Tundra Kills +7.5", "odds": 1.88 },
+      { "name": "Liquid Kills +7.5", "odds": 1.88 },
       { "name": "XG Kills -7.5", "odds": 1.88 },
-      { "name": "Tundra Kills +8.5", "odds": 1.76 },
+      { "name": "Liquid Kills +8.5", "odds": 1.76 },
       { "name": "XG Kills -8.5", "odds": 2.04 },
       { "name": "Total kills Over 39.5", "odds": 1.75 },
       { "name": "Total kills Under 39.5", "odds": 2.05 },
