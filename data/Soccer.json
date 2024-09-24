@@ -2,24 +2,24 @@
   {
     "type": "Soccer",
     "time": "2024-09-22 21:00:00+0800",
-    "match_name": "Brighton vs N. Forest",
-    "team1": "Brighton",
-    "team2": "N. Forest",
+    "match_name": "Newcastle vs Man City",
+    "team1": "Newcastle",
+    "team2": "Man City",
     "main_bet_list": [
-      { "name": "Brighton Winner", "odds": 1.77 },
+      { "name": "Newcastle Winner", "odds": 1.77 },
       { "name": "Draw", "odds": 3.85 },
-      { "name": "N. Forest Winner", "odds": 4.45 }
+      { "name": "Man City Winner", "odds": 4.45 }
     ],
     "more_bet_list": [
-      { "name": "Brighton -0.25", "odds": 1.56 },
-      { "name": "N. Forest +0.25", "odds": 2.36 },
-      { "name": "Brighton -0.5", "odds": 1.77 },
-      { "name": "N. Forest +0.5", "odds": 2.15 },
-      { "name": "Brighton -0.75", "odds": 2.01 },
-      { "name": "N. Forest +0.75", "odds": 1.91 },
-      { "name": "Brighton -1", "odds": 2.27 },
-      { "name": "N. Forest +1", "odds": 1.65 },
-      { "name": "Over 2.25", "odds": 1.60 },
+      { "name": "Newcastle -0.25", "odds": 1.56 },
+      { "name": "Man City +0.25", "odds": 2.36 },
+      { "name": "Newcastle -0.5", "odds": 1.77 },
+      { "name": "Man City +0.5", "odds": 2.15 },
+      { "name": "Newcastle -0.75", "odds": 2.01 },
+      { "name": "Man City +0.75", "odds": 1.91 },
+      { "name": "Newcastle -1", "odds": 2.27 },
+      { "name": "Man City +1", "odds": 1.65 },
+      { "name": "Over 2.25", "odds": 1.6 },
       { "name": "Under 2.25", "odds": 2.3 },
       { "name": "Over 2.5", "odds": 1.8 },
       { "name": "Under 2.5", "odds": 2.1 },
@@ -32,23 +32,23 @@
   {
     "type": "Soccer",
     "time": "2024-09-22 23:30:00+0800",
-    "match_name": "Man City vs Arsenal",
-    "team1": "Man City",
-    "team2": "Arsenal",
+    "match_name": "Chelsea vs Brighton",
+    "team1": "Chelsea",
+    "team2": "Brighton",
     "main_bet_list": [
-      { "name": "Man City Winner", "odds": 1.78 },
-      { "name": "Draw", "odds": 3.60 },
-      { "name": "Arsenal Winner", "odds": 4.70 }
+      { "name": "Chelsea Winner", "odds": 1.78 },
+      { "name": "Draw", "odds": 3.6 },
+      { "name": "Brighton Winner", "odds": 4.7 }
     ],
     "more_bet_list": [
-      { "name": "Man City -0.25", "odds": 1.59 },
-      { "name": "Arsenal +0.25", "odds": 2.33 },
-      { "name": "Man City -0.5", "odds": 1.78 },
-      { "name": "Arsenal +0.5", "odds": 2.14 },
-      { "name": "Man City -0.75", "odds": 2.04 },
-      { "name": "Arsenal +0.75", "odds": 1.88 },
-      { "name": "Man City -1", "odds": 2.32 },
-      { "name": "Arsenal +1", "odds": 1.60 },
+      { "name": "Chelsea -0.25", "odds": 1.59 },
+      { "name": "Brighton +0.25", "odds": 2.33 },
+      { "name": "Chelsea -0.5", "odds": 1.78 },
+      { "name": "Brighton +0.5", "odds": 2.14 },
+      { "name": "Chelsea -0.75", "odds": 2.04 },
+      { "name": "Brighton +0.75", "odds": 1.88 },
+      { "name": "Chelsea -1", "odds": 2.32 },
+      { "name": "Brighton +1", "odds": 1.6 },
       { "name": "Over 2", "odds": 1.56 },
       { "name": "Under 2", "odds": 2.34 },
       { "name": "Over 2.25", "odds": 1.84 },
@@ -62,23 +62,23 @@
   {
     "type": "Soccer",
     "time": "2024-09-21 22:00:00+0800",
-    "match_name": "Fulham vs Newcastle",
-    "team1": "Fulham",
-    "team2": "Newcastle",
+    "match_name": "Brentford vs West Ham",
+    "team1": "Brentford",
+    "team2": "West Ham",
     "main_bet_list": [
-      { "name": "Fulham Winner", "odds": 2.80 },
+      { "name": "Brentford Winner", "odds": 2.8 },
       { "name": "Draw", "odds": 3.55 },
-      { "name": "Newcastle Winner", "odds": 2.42 }
+      { "name": "West Ham Winner", "odds": 2.42 }
     ],
     "more_bet_list": [
-      { "name": "Fulham -0", "odds": 2.11 },
-      { "name": "Newcastle +0", "odds": 1.79 },
-      { "name": "Fulham -0.25", "odds": 2.27 },
-      { "name": "Newcastle +0.25", "odds": 1.63 },
-      { "name": "Fulham +0.25", "odds": 1.74 },
-      { "name": "Newcastle -0.25", "odds": 2.16 },
-      { "name": "Fulham +0.5", "odds": 1.60 },
-      { "name": "Newcastle -0.5", "odds": 2.30 },
+      { "name": "Brentford -0", "odds": 2.11 },
+      { "name": "West Ham +0", "odds": 1.79 },
+      { "name": "Brentford -0.25", "odds": 2.27 },
+      { "name": "West Ham +0.25", "odds": 1.63 },
+      { "name": "Brentford +0.25", "odds": 1.74 },
+      { "name": "West Ham -0.25", "odds": 2.16 },
+      { "name": "Brentford +0.5", "odds": 1.6 },
+      { "name": "West Ham -0.5", "odds": 2.3 },
       { "name": "Over 2.5", "odds": 1.67 },
       { "name": "Under 2.5", "odds": 2.21 },
       { "name": "Over 2.75", "odds": 1.86 },
@@ -93,23 +93,23 @@
   {
     "type": "Soccer",
     "time": "2024-09-22 21:30:00+0800",
-    "match_name": "Leverkusen vs Wolfsburg",
-    "team1": "Leverkusen",
-    "team2": "Wolfsburg",
+    "match_name": "Everton vs Crystal Palace",
+    "team1": "Everton",
+    "team2": "Crystal Palace",
     "main_bet_list": [
-      { "name": "Leverkusen Winner", "odds": 1.27 },
+      { "name": "Everton Winner", "odds": 1.27 },
       { "name": "Draw", "odds": 6.2 },
-      { "name": "Wolfsburg Winner", "odds": 10.00 }
+      { "name": "Crystal Palace Winner", "odds": 10.0 }
     ],
     "more_bet_list": [
-      { "name": "Leverkusen -1.25", "odds": 1.54 },
-      { "name": "Wolfsburg +1.25", "odds": 2.38 },
-      { "name": "Leverkusen -1.5", "odds": 1.73 },
-      { "name": "Wolfsburg +1.5", "odds": 2.19 },
-      { "name": "Leverkusen -1.75", "odds": 1.90 },
-      { "name": "Wolfsburg +1.75", "odds": 2.02 },
-      { "name": "Leverkusen -2", "odds": 2.16 },
-      { "name": "Wolfsburg +2", "odds": 1.76 },
+      { "name": "Everton -1.25", "odds": 1.54 },
+      { "name": "Crystal Palace +1.25", "odds": 2.38 },
+      { "name": "Everton -1.5", "odds": 1.73 },
+      { "name": "Crystal Palace +1.5", "odds": 2.19 },
+      { "name": "Everton -1.75", "odds": 1.9 },
+      { "name": "Crystal Palace +1.75", "odds": 2.02 },
+      { "name": "Everton -2", "odds": 2.16 },
+      { "name": "Crystal Palace +2", "odds": 1.76 },
       { "name": "Over 3", "odds": 1.68 },
       { "name": "Under 3", "odds": 2.22 },
       { "name": "Over 3.25", "odds": 1.91 },
@@ -123,23 +123,23 @@
   {
     "type": "Soccer",
     "time": "2024-09-22 23:30:00+0800",
-    "match_name": "Vfb Stuttgart vs Dortmund",
-    "team1": "Vfb Stuttgart",
-    "team2": "Dortmund",
+    "match_name": "Arsenal vs Leicester City",
+    "team1": "Arsenal",
+    "team2": "Leicester City",
     "main_bet_list": [
-      { "name": "Vfb Stuttgart Winner", "odds": 2.23 },
+      { "name": "Arsenal Winner", "odds": 2.23 },
       { "name": "Draw", "odds": 3.95 },
-      { "name": "Dortmund Winner", "odds": 2.87 }
+      { "name": "Leicester City Winner", "odds": 2.87 }
     ],
     "more_bet_list": [
-      { "name": "Vfb Stuttgart +0", "odds": 1.67 },
-      { "name": "Dortmund -0", "odds": 2.25 },
-      { "name": "Vfb Stuttgart +0.25", "odds": 1.54 },
-      { "name": "Dortmund -0.25", "odds": 2.38 },
-      { "name": "Vfb Stuttgart -0.25", "odds": 1.98 },
-      { "name": "Dortmund +0.25", "odds": 1.94 },
-      { "name": "Vfb Stuttgart -0.5", "odds": 2.19 },
-      { "name": "Dortmund +0.5", "odds": 1.73 },
+      { "name": "Arsenal +0", "odds": 1.67 },
+      { "name": "Leicester City -0", "odds": 2.25 },
+      { "name": "Arsenal +0.25", "odds": 1.54 },
+      { "name": "Leicester City -0.25", "odds": 2.38 },
+      { "name": "Arsenal -0.25", "odds": 1.98 },
+      { "name": "Leicester City +0.25", "odds": 1.94 },
+      { "name": "Arsenal -0.5", "odds": 2.19 },
+      { "name": "Leicester City +0.5", "odds": 1.73 },
       { "name": "Over 3", "odds": 1.65 },
       { "name": "Under 3", "odds": 2.25 },
       { "name": "Over 3.25", "odds": 1.83 },
@@ -153,23 +153,23 @@
   {
     "type": "Soccer",
     "time": "2024-09-23 01:30:00+0800",
-    "match_name": "FC St. Pauli vs RB Leipzig",
-    "team1": "FC St. Pauli",
-    "team2": "RB Leipzig",
+    "match_name": "Nottm Forest vs Fulham",
+    "team1": "Nottm Forest",
+    "team2": "Fulham",
     "main_bet_list": [
-      { "name": "FC St. Pauli Winner", "odds": 5.00 },
+      { "name": "Nottm Forest Winner", "odds": 5.0 },
       { "name": "Draw", "odds": 4.15 },
-      { "name": "RB Leipzig Winner", "odds": 1.64 }
+      { "name": "Fulham Winner", "odds": 1.64 }
     ],
     "more_bet_list": [
-      { "name": "FC St. Pauli +0.5", "odds": 2.28 },
-      { "name": "RB Leipzig -0.5", "odds": 1.64 },
-      { "name": "FC St. Pauli +0.75", "odds": 2.04 },
-      { "name": "RB Leipzig -0.75", "odds": 1.88 },
-      { "name": "FC St. Pauli +1", "odds": 1.75 },
-      { "name": "RB Leipzig -1", "odds": 2.17 },
-      { "name": "FC St. Pauli +1.25", "odds": 1.57 },
-      { "name": "RB Leipzig -1.25", "odds": 2.35 },
+      { "name": "Nottm Forest +0.5", "odds": 2.28 },
+      { "name": "Fulham -0.5", "odds": 1.64 },
+      { "name": "Nottm Forest +0.75", "odds": 2.04 },
+      { "name": "Fulham -0.75", "odds": 1.88 },
+      { "name": "Nottm Forest +1", "odds": 1.75 },
+      { "name": "Fulham -1", "odds": 2.17 },
+      { "name": "Nottm Forest +1.25", "odds": 1.57 },
+      { "name": "Fulham -1.25", "odds": 2.35 },
       { "name": "Over 2.5", "odds": 1.68 },
       { "name": "Under 2.5", "odds": 2.22 },
       { "name": "Over 2.75", "odds": 1.88 },
@@ -183,29 +183,29 @@
   {
     "type": "Soccer",
     "time": "2024-09-21 22:00:00+0800",
-    "match_name": "Liverpool vs Bournemouth",
-    "team1": "Liverpool",
-    "team2": "Bournemouth",
+    "match_name": "Wolves vs Liverpool",
+    "team1": "Wolves",
+    "team2": "Liverpool",
     "main_bet_list": [
-      { "name": "Liverpool Winner", "odds": 1.31 },
-      { "name": "Draw", "odds": 6.40 },
-      { "name": "Bournemouth Winner", "odds": 7.9 }
+      { "name": "Wolves Winner", "odds": 1.31 },
+      { "name": "Draw", "odds": 6.4 },
+      { "name": "Liverpool Winner", "odds": 7.9 }
     ],
     "more_bet_list": [
-      { "name": "Liverpool -1.25", "odds": 1.67 },
-      { "name": "Bournemouth +1.25", "odds": 2.23 },
-      { "name": "Liverpool -1.5", "odds": 1.83 },
-      { "name": "Bournemouth +1.5", "odds": 2.07 },
-      { "name": "Liverpool -1.75", "odds": 2.08 },
-      { "name": "Bournemouth +1.75", "odds": 1.82 },
-      { "name": "Liverpool -2", "odds": 2.24 },
-      { "name": "Bournemouth +2", "odds": 1.66 },
+      { "name": "Wolves -1.25", "odds": 1.67 },
+      { "name": "Liverpool +1.25", "odds": 2.23 },
+      { "name": "Wolves -1.5", "odds": 1.83 },
+      { "name": "Liverpool +1.5", "odds": 2.07 },
+      { "name": "Wolves -1.75", "odds": 2.08 },
+      { "name": "Liverpool +1.75", "odds": 1.82 },
+      { "name": "Wolves -2", "odds": 2.24 },
+      { "name": "Liverpool +2", "odds": 1.66 },
       { "name": "Over 3", "odds": 1.55 },
       { "name": "Under 3", "odds": 2.33 },
       { "name": "Over 3.25", "odds": 1.75 },
       { "name": "Under 3.25", "odds": 2.13 },
       { "name": "Over 3.5", "odds": 1.98 },
-      { "name": "Under 3.5", "odds": 1.90 },
+      { "name": "Under 3.5", "odds": 1.9 },
       { "name": "Over 3.75", "odds": 2.17 },
       { "name": "Under 3.75", "odds": 1.71 }
     ]
@@ -218,7 +218,7 @@
     "team2": "Man United",
     "main_bet_list": [
       { "name": "Crystal Palace Winner", "odds": 2.81 },
-      { "name": "Draw", "odds": 3.70 },
+      { "name": "Draw", "odds": 3.7 },
       { "name": "Man United Winner", "odds": 2.36 }
     ],
     "more_bet_list": [
@@ -230,9 +230,9 @@
       { "name": "Man United -0.25", "odds": 2.04 },
       { "name": "Crystal Palace +0.5", "odds": 1.63 },
       { "name": "Man United -0.5", "odds": 2.27 },
-      { "name": "Over 2.5", "odds": 1.60 },
+      { "name": "Over 2.5", "odds": 1.6 },
       { "name": "Under 2.5", "odds": 2.28 },
-      { "name": "Over 2.75", "odds": 1.80 },
+      { "name": "Over 2.75", "odds": 1.8 },
       { "name": "Under 2.75", "odds": 2.08 },
       { "name": "Over 3", "odds": 2.04 },
       { "name": "Under 3", "odds": 1.84 },
@@ -249,10 +249,10 @@
     "main_bet_list": [
       { "name": "Vfl Bochum Winner", "odds": 1.95 },
       { "name": "Draw", "odds": 3.85 },
-      { "name": "Holstein Kiel Winner", "odds": 3.60 }
+      { "name": "Holstein Kiel Winner", "odds": 3.6 }
     ],
     "more_bet_list": [
-      { "name": "Vfl Bochum -0.25", "odds": 1.70 },
+      { "name": "Vfl Bochum -0.25", "odds": 1.7 },
       { "name": "Holstein Kiel +0.25", "odds": 2.24 },
       { "name": "Vfl Bochum -0.5", "odds": 1.95 },
       { "name": "Holstein Kiel +0.5", "odds": 1.99 },
@@ -295,7 +295,7 @@
       { "name": "Under 2.25", "odds": 2.35 },
       { "name": "Over 2.5", "odds": 1.78 },
       { "name": "Under 2.5", "odds": 2.14 },
-      { "name": "Over 2.75", "odds": 2.00 },
+      { "name": "Over 2.75", "odds": 2.0 },
       { "name": "Under 2.75", "odds": 1.92 },
       { "name": "Over 3", "odds": 2.25 },
       { "name": "Under 3", "odds": 1.67 }
@@ -310,13 +310,13 @@
     "main_bet_list": [
       { "name": "Union Berlin Winner", "odds": 1.85 },
       { "name": "Draw", "odds": 3.95 },
-      { "name": "Hoffenheim Winner", "odds": 3.90 }
+      { "name": "Hoffenheim Winner", "odds": 3.9 }
     ],
     "more_bet_list": [
       { "name": "Union Berlin -0.25", "odds": 1.64 },
-      { "name": "Hoffenheim +0.25", "odds": 2.30 },
+      { "name": "Hoffenheim +0.25", "odds": 2.3 },
       { "name": "Union Berlin -0.5", "odds": 1.84 },
-      { "name": "Hoffenheim +0.5", "odds": 2.10 },
+      { "name": "Hoffenheim +0.5", "odds": 2.1 },
       { "name": "Union Berlin -0.75", "odds": 2.1 },
       { "name": "Hoffenheim +0.75", "odds": 1.84 },
       { "name": "Union Berlin -1", "odds": 2.32 },
@@ -339,11 +339,11 @@
     "team2": "Bayern",
     "main_bet_list": [
       { "name": "Werder Winner", "odds": 8.6 },
-      { "name": "Draw", "odds": 5.90 },
+      { "name": "Draw", "odds": 5.9 },
       { "name": "Bayern Winner", "odds": 1.32 }
     ],
     "more_bet_list": [
-      { "name": "Werder +1.25", "odds": 2.30 },
+      { "name": "Werder +1.25", "odds": 2.3 },
       { "name": "Bayern -1.25", "odds": 1.64 },
       { "name": "Werder +1.5", "odds": 2.07 },
       { "name": "Bayern -1.5", "odds": 1.87 },
@@ -383,7 +383,7 @@
       { "name": "Leverkusen -1.75", "odds": 2.31 },
       { "name": "Over 3.25", "odds": 1.64 },
       { "name": "Under 3.25", "odds": 2.24 },
-      { "name": "Over 3.5", "odds": 1.80 },
+      { "name": "Over 3.5", "odds": 1.8 },
       { "name": "Under 3.5", "odds": 2.08 },
       { "name": "Over 3.75", "odds": 1.99 },
       { "name": "Under 3.75", "odds": 1.89 },
@@ -411,7 +411,7 @@
       { "name": "Monchengladbach +0.75", "odds": 1.95 },
       { "name": "E. Frankfurt -1", "odds": 2.26 },
       { "name": "Monchengladbach +1", "odds": 1.68 },
-      { "name": "Over 3", "odds": 1.70 },
+      { "name": "Over 3", "odds": 1.7 },
       { "name": "Under 3", "odds": 2.22 },
       { "name": "Over 3.25", "odds": 1.97 },
       { "name": "Under 3.25", "odds": 1.95 },
@@ -429,7 +429,7 @@
     "team2": "Bologna",
     "main_bet_list": [
       { "name": "Como Winner", "odds": 2.95 },
-      { "name": "Draw", "odds": 3.20 },
+      { "name": "Draw", "odds": 3.2 },
       { "name": "Bologna Winner", "odds": 2.51 }
     ],
     "more_bet_list": [
@@ -445,7 +445,7 @@
       { "name": "Under 1.75", "odds": 2.37 },
       { "name": "Over 2", "odds": 1.67 },
       { "name": "Under 2", "odds": 2.21 },
-      { "name": "Over 2.25", "odds": 2.00 },
+      { "name": "Over 2.25", "odds": 2.0 },
       { "name": "Under 2.25", "odds": 1.88 },
       { "name": "Over 2.5", "odds": 2.21 },
       { "name": "Under 2.5", "odds": 1.67 }
@@ -458,14 +458,14 @@
     "team1": "Empoli",
     "team2": "Juventus",
     "main_bet_list": [
-      { "name": "Empoli Winner", "odds": 5.50 },
+      { "name": "Empoli Winner", "odds": 5.5 },
       { "name": "Draw", "odds": 3.6 },
       { "name": "Juventus Winner", "odds": 1.7 }
     ],
     "more_bet_list": [
       { "name": "Empoli +0.25", "odds": 2.43 },
       { "name": "Juventus -0.25", "odds": 1.49 },
-      { "name": "Empoli +0.5", "odds": 2.20 },
+      { "name": "Empoli +0.5", "odds": 2.2 },
       { "name": "Juventus -0.5", "odds": 1.72 },
       { "name": "Empoli +0.75", "odds": 1.99 },
       { "name": "Juventus -0.75", "odds": 1.93 },
@@ -475,8 +475,8 @@
       { "name": "Under 1.75", "odds": 2.39 },
       { "name": "Over 2", "odds": 1.69 },
       { "name": "Under 2", "odds": 2.21 },
-      { "name": "Over 2.25", "odds": 2.00 },
-      { "name": "Under 2.25", "odds": 1.90 },
+      { "name": "Over 2.25", "odds": 2.0 },
+      { "name": "Under 2.25", "odds": 1.9 },
       { "name": "Over 2.5", "odds": 2.21 },
       { "name": "Under 2.5", "odds": 1.69 }
     ]
@@ -490,8 +490,8 @@
     "team2": "Venezia",
     "main_bet_list": [
       { "name": "Milan Winner", "odds": 1.29 },
-      { "name": "Draw", "odds": 5.60 },
-      { "name": "Venezia Winner", "odds": 11.00 }
+      { "name": "Draw", "odds": 5.6 },
+      { "name": "Venezia Winner", "odds": 11.0 }
     ],
     "more_bet_list": [
       { "name": "Milan -1.25", "odds": 1.67 },
@@ -499,9 +499,9 @@
       { "name": "Milan -1.5", "odds": 1.88 },
       { "name": "Venezia +1.5", "odds": 2.04 },
       { "name": "Milan -1.75", "odds": 2.12 },
-      { "name": "Venezia +1.75", "odds": 1.80 },
+      { "name": "Venezia +1.75", "odds": 1.8 },
       { "name": "Milan -2", "odds": 2.32 },
-      { "name": "Venezia +2", "odds": 1.60 },
+      { "name": "Venezia +2", "odds": 1.6 },
       { "name": "Over 2.75", "odds": 1.69 },
       { "name": "Under 2.75", "odds": 2.21 },
       { "name": "Over 3", "odds": 1.9 },
@@ -524,7 +524,7 @@
       { "name": "Villarreal Winner", "odds": 2.84 }
     ],
     "more_bet_list": [
-      { "name": "Mallorca +0", "odds": 1.80 },
+      { "name": "Mallorca +0", "odds": 1.8 },
       { "name": "Villarreal -0", "odds": 2.12 },
       { "name": "Mallorca +0.25", "odds": 1.59 },
       { "name": "Villarreal -0.25", "odds": 2.33 },
