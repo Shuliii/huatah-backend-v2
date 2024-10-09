@@ -1,4 +1,5 @@
 #!/bin/bash
+MESSAGE=$1
 
 # Build the Docker image
 docker build -t ricoharsono/huatah-backend:latest . || { echo "Docker build failed"; exit 1; }
@@ -20,3 +21,6 @@ fi
 git add .
 git commit -m "edit"
 git push
+
+#Send text message
+curl -s -X POST https://api.telegram.org/bot902467435:AAGGJ695Sy_EWiFyJszxTkwTJqbxPwiNsG4/sendMessage -d chat_id=362851348 -d text=$MESSAGE
