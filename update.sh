@@ -1,5 +1,5 @@
 #!/bin/bash
-MESSAGE=$1
+MESSAGE="$@"
 
 # Build the Docker image
 docker build -t ricoharsono/huatah-backend:latest . || { echo "Docker build failed"; exit 1; }
