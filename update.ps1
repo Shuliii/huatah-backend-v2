@@ -38,7 +38,8 @@ if (-not $checkContext) {
 #Send text message
 # Define your bot token and chat IDs
 $botToken = "902467435:AAGGJ695Sy_EWiFyJszxTkwTJqbxPwiNsG4"
-$chatIds = @("6454159736", "362851348")
+#$chatIds = @("6454159736", "362851348")
+$chatIds = @("362851348")
 
 # Send the message to each chat ID
 foreach ($chatId in $chatIds) {
