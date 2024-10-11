@@ -24,6 +24,6 @@ git push
 
 #Send text message
 if [ -n "$MESSAGE" ]; then
-    curl -s -X POST https://api.telegram.org/bot902467435:AAGGJ695Sy_EWiFyJszxTkwTJqbxPwiNsG4/sendMessage -d chat_id=6454159736 -d text="$MESSAGE"
+    curl -s -X POST https://api.telegram.org/bot902467435:AAGGJ695Sy_EWiFyJszxTkwTJqbxPwiNsG4/sendMessage -d chat_id=795308339 -d text="$MESSAGE"
     curl -s -X POST https://api.telegram.org/bot902467435:AAGGJ695Sy_EWiFyJszxTkwTJqbxPwiNsG4/sendMessage -d chat_id=362851348 -d text="$MESSAGE"
 fi
