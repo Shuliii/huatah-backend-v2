@@ -273,37 +273,37 @@ app.post("/postbet", async (req, res) => {
   }
 });
 
-app.get("/bet/Dota2", async (req, res) => {
-  const result = path.join(__dirname, "/data/Dota2.json");
-  const data = await readFile(result);
-  const filteredData = filterData(data);
-  res.json({ data: filteredData });
-  // res.json({ data });
-});
+// app.get("/bet/Dota2", async (req, res) => {
+//   const result = path.join(__dirname, "/data/Dota2.json");
+//   const data = await readFile(result);
+//   const filteredData = filterData(data);
+//   res.json({ data: filteredData });
+//   // res.json({ data });
+// });
 
-app.get("/bet/CS", async (req, res) => {
-  const result = path.join(__dirname, "/data/CS.json");
-  const data = await readFile(result);
-  const filteredData = filterData(data);
-  res.json({ data: filteredData });
-  // res.json({ data });
-});
+// app.get("/bet/CS", async (req, res) => {
+//   const result = path.join(__dirname, "/data/CS.json");
+//   const data = await readFile(result);
+//   const filteredData = filterData(data);
+//   res.json({ data: filteredData });
+//   // res.json({ data });
+// });
 
-app.get("/bet/NBA", async (req, res) => {
-  const result = path.join(__dirname, "/data/NBA.json");
-  const data = await readFile(result);
-  const filteredData = filterData(data);
-  res.json({ data: filteredData });
-  // res.json({ data });
-});
+// app.get("/bet/NBA", async (req, res) => {
+//   const result = path.join(__dirname, "/data/NBA.json");
+//   const data = await readFile(result);
+//   const filteredData = filterData(data);
+//   res.json({ data: filteredData });
+//   // res.json({ data });
+// });
 
-app.get("/bet/Soccer", async (req, res) => {
-  const result = path.join(__dirname, "/data/Soccer.json");
-  const data = await readFile(result);
-  const filteredData = filterData(data);
-  res.json({ data: filteredData });
-  // res.json({ data });
-});
+// app.get("/bet/Soccer", async (req, res) => {
+//   const result = path.join(__dirname, "/data/Soccer.json");
+//   const data = await readFile(result);
+//   const filteredData = filterData(data);
+//   res.json({ data: filteredData });
+//   // res.json({ data });
+// });
 
 app.get("/bet/:name", async (req, res) => {
   try {
@@ -317,46 +317,58 @@ app.get("/bet/:name", async (req, res) => {
   }
 });
 
-app.delete("/delete/:id", (req, res) => {
-  console.log(req.params.id);
-  const queryString = `SELECT * FROM betlist WHERE id = ${req.params.id}`;
-
-  connection.query(queryString, (err, result) => {
-    if (err) {
-      console.error(err);
-      res.status(500).json({ message: "Internal Server Error" });
-      return;
-    }
-
-    if (!result || result.length === 0) {
-      res.json({
-        message: "Bet List does not exist",
-      });
-    } else {
-      const data = result;
-
-      const currentDate = new Date();
-      const matchDate = new Date(data[0].Match_Time); // Assuming Match_Time is a property in the result
-
-      if (matchDate - currentDate > 0) {
-        const deleteQueryString = `DELETE FROM betlist where id = ${req.params.id}`;
-        connection.query(deleteQueryString, (err, result) => {
-          if (err) {
-            res.status(500).json({ message: "Internal Server Error" });
-            return;
-          }
-          res.json({
-            message: "Successfully deleted the bet!",
-          });
-        });
-      } else {
-        res.json({
-          message: "Cannot delete bet, match has already started!",
-        });
-      }
-    }
-  });
+app.get("/api/:name", async (req, res) => {
+  try {
+    const result = path.join(__dirname, `/data/${req.params.name}.json`);
+    const data = await readFile(result);
+    const filteredData = filterData(data);
+    res.json({ data: filteredData });
+  } catch (error) {
+    console.error("Error fetching bet data:", error);
+    res.status(500).json({ message: "Internal Server Error" });
+  }
 });
+
+// app.delete("/delete/:id", (req, res) => {
+//   console.log(req.params.id);
+//   const queryString = `SELECT * FROM betlist WHERE id = ${req.params.id}`;
+
+//   connection.query(queryString, (err, result) => {
+//     if (err) {
+//       console.error(err);
+//       res.status(500).json({ message: "Internal Server Error" });
+//       return;
+//     }
+
+//     if (!result || result.length === 0) {
+//       res.json({
+//         message: "Bet List does not exist",
+//       });
+//     } else {
+//       const data = result;
+
+//       const currentDate = new Date();
+//       const matchDate = new Date(data[0].Match_Time); // Assuming Match_Time is a property in the result
+
+//       if (matchDate - currentDate > 0) {
+//         const deleteQueryString = `DELETE FROM betlist where id = ${req.params.id}`;
+//         connection.query(deleteQueryString, (err, result) => {
+//           if (err) {
+//             res.status(500).json({ message: "Internal Server Error" });
+//             return;
+//           }
+//           res.json({
+//             message: "Successfully deleted the bet!",
+//           });
+//         });
+//       } else {
+//         res.json({
+//           message: "Cannot delete bet, match has already started!",
+//         });
+//       }
+//     }
+//   });
+// });
 
 app.listen(PORT, () => {
   console.log(`The server it's running on ${PORT}`);
