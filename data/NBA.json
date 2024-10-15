@@ -2,20 +2,20 @@
   {
     "type": "NBA",
     "time": "2024-10-14 03:30:00+0800",
-    "match_name": "Heat vs Pelicans",
-    "team1": "Heat",
-    "team2": "Pelicans",
+    "match_name": "Raptors vs Celtics",
+    "team1": "Raptors",
+    "team2": "Celtics",
     "main_bet_list": [
-      { "name": "Heat Winner", "odds": 1.74 },
-      { "name": "Pelicans Winner", "odds": 2.06 }
+      { "name": "Raptors Winner", "odds": 1.74 },
+      { "name": "Celtics Winner", "odds": 2.06 }
     ],
     "more_bet_list": [
-      { "name": "Heat -1", "odds": 1.89 },
-      { "name": "Pelicans +1", "odds": 1.96 },
-      { "name": "Heat -1.5", "odds": 1.98 },
-      { "name": "Pelicans +1.5", "odds": 1.87 },
-      { "name": "Heat -2", "odds": 2.06 },
-      { "name": "Pelicans +2", "odds": 1.75 },
+      { "name": "Raptors -1", "odds": 1.89 },
+      { "name": "Celtics +1", "odds": 1.96 },
+      { "name": "Raptors -1.5", "odds": 1.98 },
+      { "name": "Celtics +1.5", "odds": 1.87 },
+      { "name": "Raptors -2", "odds": 2.06 },
+      { "name": "Celtics +2", "odds": 1.75 },
       { "name": "Over 217.5", "odds": 1.92 },
       { "name": "Under 217.5", "odds": 1.92 },
       { "name": "Over 218", "odds": 1.98 },
@@ -27,20 +27,20 @@
   {
     "type": "NBA",
     "time": "2024-10-14 06:00:00+0800",
-    "match_name": "Knicks vs Timberwolves",
+    "match_name": "Knicks vs Hornets",
     "team1": "Knicks",
-    "team2": "Timberwolves",
+    "team2": "Hornets",
     "main_bet_list": [
       { "name": "Knicks Winner", "odds": 1.70 },
-      { "name": "Timberwolves Winner", "odds": 2.11 }
+      { "name": "Hornets Winner", "odds": 2.11 }
     ],
     "more_bet_list": [
       { "name": "Knicks -2", "odds": 1.79 },
-      { "name": "Timberwolves +2", "odds": 2.04 },
+      { "name": "Hornets +2", "odds": 2.04 },
       { "name": "Knicks -2.5", "odds": 1.89 },
-      { "name": "Timberwolves +2.5", "odds": 1.96 },
+      { "name": "Hornets +2.5", "odds": 1.96 },
       { "name": "Knicks -3", "odds": 1.98 },
-      { "name": "Timberwolves +3", "odds": 1.87 },
+      { "name": "Hornets +3", "odds": 1.87 },
       { "name": "Over 222", "odds": 1.71 },
       { "name": "Under 222", "odds": 2.06 },
       { "name": "Over 222.5", "odds": 1.89 },
@@ -52,20 +52,20 @@
   {
     "type": "NBA",
     "time": "2024-10-14 06:00:00+0800",
-    "match_name": "Kings vs Trail Blazers",
-    "team1": "Kings",
-    "team2": "Trail Blazers",
+    "match_name": "Heat vs Spurs",
+    "team1": "Heat",
+    "team2": "Spurs",
     "main_bet_list": [
-      { "name": "Kings Winner", "odds": 1.45 },
-      { "name": "Trail Blazers Winner", "odds": 2.53 }
+      { "name": "Heat Winner", "odds": 1.45 },
+      { "name": "Spurs Winner", "odds": 2.53 }
     ],
     "more_bet_list": [
-      { "name": "Kings -5", "odds": 1.83 },
-      { "name": "Trail Blazers +5", "odds": 2.01 },
-      { "name": "Kings -5.5", "odds": 1.93 },
-      { "name": "Trail Blazers +5.5", "odds": 1.93 },
-      { "name": "Kings -6", "odds": 2.00 },
-      { "name": "Trail Blazers +6", "odds": 1.84 },
+      { "name": "Heat -5", "odds": 1.83 },
+      { "name": "Spurs +5", "odds": 2.01 },
+      { "name": "Heat -5.5", "odds": 1.93 },
+      { "name": "Spurs +5.5", "odds": 1.93 },
+      { "name": "Heat -6", "odds": 2.00 },
+      { "name": "Spurs +6", "odds": 1.84 },
       { "name": "Over 217", "odds": 1.84 },
       { "name": "Under 217", "odds": 1.98 },
       { "name": "Over 217.5", "odds": 1.92 },
@@ -77,20 +77,20 @@
   {
     "type": "NBA",
     "time": "2024-10-14 07:00:00+0800",
-    "match_name": "Celtics vs Raptors",
-    "team1": "Celtics",
-    "team2": "Raptors",
+    "match_name": "Rockets vs Pelicans",
+    "team1": "Rockets",
+    "team2": "Pelicans",
     "main_bet_list": [
-      { "name": "Celtics Winner", "odds": 1.76 },
-      { "name": "Raptors Winner", "odds": 2.04 }
+      { "name": "Rockets Winner", "odds": 1.76 },
+      { "name": "Pelicans Winner", "odds": 2.04 }
     ],
     "more_bet_list": [
-      { "name": "Celtics -1.5", "odds": 1.88 },
-      { "name": "Raptors +1.5", "odds": 1.97 },
-      { "name": "Celtics -2", "odds": 1.97 },
-      { "name": "Raptors +2", "odds": 1.88 },
-      { "name": "Celtics -2.5", "odds": 2.05 },
-      { "name": "Raptors +2.5", "odds": 1.77 },
+      { "name": "Rockets -1.5", "odds": 1.88 },
+      { "name": "Pelicans +1.5", "odds": 1.97 },
+      { "name": "Rockets -2", "odds": 1.97 },
+      { "name": "Pelicans +2", "odds": 1.88 },
+      { "name": "Rockets -2.5", "odds": 2.05 },
+      { "name": "Pelicans +2.5", "odds": 1.77 },
       { "name": "Over 223.5", "odds": 1.94 },
       { "name": "Under 223.5", "odds": 1.89 },
       { "name": "Over 224", "odds": 2.00 },
@@ -102,20 +102,20 @@
   {
     "type": "NBA",
     "time": "2024-10-14 08:30:00+0800",
-    "match_name": "Warriors vs Pistons",
-    "team1": "Warriors",
-    "team2": "Pistons",
+    "match_name": "Jazz vs Kings",
+    "team1": "Jazz",
+    "team2": "Kings",
     "main_bet_list": [
-      { "name": "Warriors Winner", "odds": 1.55 },
-      { "name": "Pistons Winner", "odds": 2.33 }
+      { "name": "Jazz Winner", "odds": 1.55 },
+      { "name": "Kings Winner", "odds": 2.33 }
     ],
     "more_bet_list": [
-      { "name": "Warriors -3.5", "odds": 1.83 },
-      { "name": "Pistons +3.5", "odds": 2.01 },
-      { "name": "Warriors -4", "odds": 1.93 },
-      { "name": "Pistons +4", "odds": 1.93 },
-      { "name": "Warriors -4.5", "odds": 2.00 },
-      { "name": "Pistons +4.5", "odds": 1.84 },
+      { "name": "Jazz -3.5", "odds": 1.83 },
+      { "name": "Kings +3.5", "odds": 2.01 },
+      { "name": "Jazz -4", "odds": 1.93 },
+      { "name": "Kings +4", "odds": 1.93 },
+      { "name": "Jazz -4.5", "odds": 2.00 },
+      { "name": "Kings +4.5", "odds": 1.84 },
       { "name": "Over 216.5", "odds": 1.75 },
       { "name": "Under 216.5", "odds": 2.04 },
       { "name": "Over 217", "odds": 1.84 },
@@ -127,20 +127,20 @@
   {
     "type": "NBA",
     "time": "2024-10-14 08:30:00+0800",
-    "match_name": "Nuggets vs Suns",
+    "match_name": "Nuggets vs Thunder",
     "team1": "Nuggets",
-    "team2": "Suns",
+    "team2": "Thunder",
     "main_bet_list": [
       { "name": "Nuggets Winner", "odds": 1.52 },
-      { "name": "Suns Winner", "odds": 2.38 }
+      { "name": "Thunder Winner", "odds": 2.38 }
     ],
     "more_bet_list": [
       { "name": "Nuggets -4", "odds": 1.83 },
-      { "name": "Suns +4", "odds": 2.01 },
+      { "name": "Thunder +4", "odds": 2.01 },
       { "name": "Nuggets -4.5", "odds": 1.93 },
-      { "name": "Suns +4.5", "odds": 1.93 },
+      { "name": "Thunder +4.5", "odds": 1.93 },
       { "name": "Nuggets -5", "odds": 2.00 },
-      { "name": "Suns +5", "odds": 1.84 },
+      { "name": "Thunder +5", "odds": 1.84 },
       { "name": "Over 218", "odds": 1.84 },
       { "name": "Under 218", "odds": 1.98 },
       { "name": "Over 218.5", "odds": 1.92 },
@@ -152,20 +152,20 @@
   {
     "type": "NBA",
     "time": "2023-04-15 01:00:00+0800",
-    "match_name": "76ers vs Nets",
-    "team1": "76ers",
-    "team2": "Nets",
+    "match_name": "Lakers vs Warriors",
+    "team1": "Lakers",
+    "team2": "Warriors",
     "main_bet_list": [
-      { "name": "76ers Winner", "odds": 1.1 },
-      { "name": "Nets Winner", "odds": 4.33 }
+      { "name": "Lakers Winner", "odds": 1.1 },
+      { "name": "Warriors Winner", "odds": 4.33 }
     ],
     "more_bet_list": [
-      { "name": "76ers -15", "odds": 1.89 },
-      { "name": "Nets +15", "odds": 1.99 },
-      { "name": "76ers -15.5", "odds": 1.96 },
-      { "name": "Nets +15.5", "odds": 1.92 },
-      { "name": "76ers -16", "odds": 2.03 },
-      { "name": "Nets +16", "odds": 1.85 },
+      { "name": "Lakers -15", "odds": 1.89 },
+      { "name": "Warriors +15", "odds": 1.99 },
+      { "name": "Lakers -15.5", "odds": 1.96 },
+      { "name": "Warriors +15.5", "odds": 1.92 },
+      { "name": "Lakers -16", "odds": 2.03 },
+      { "name": "Warriors +16", "odds": 1.85 },
       { "name": "Over 214", "odds": 1.88 },
       { "name": "Under 214", "odds": 1.98 },
       { "name": "Over 214.5", "odds": 1.93 },
