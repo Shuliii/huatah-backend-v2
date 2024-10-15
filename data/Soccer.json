@@ -1,6 +1,84 @@
 [
   {
     "type": "Soccer",
+    "time": "2024-10-15 18:35:00+0800",
+    "match_name": "Japan vs Australia",
+    "team1": "Japan",
+    "team2": "Australia",
+    "main_bet_list": [
+      { "name": "Japan Winner", "odds": 1.33 },
+      { "name": "Draw", "odds": 4.50 },
+      { "name": "Australia Winner", "odds": 6.70 }
+    ],
+    "more_bet_list": [
+      { "name": "Japan -1", "odds": 1.30 },
+      { "name": "Australia +1", "odds": 2.34 },
+      { "name": "Japan -1.25", "odds": 1.80 },
+      { "name": "Australia +1.25", "odds": 2.01 },
+      { "name": "Japan -1.5", "odds": 2.07 },
+      { "name": "Australia +1.5", "odds": 1.70 },
+      { "name": "Over 2.5", "odds": 1.38 },
+      { "name": "Under 2.5", "odds": 2.25 },
+      { "name": "Over 2.75", "odds": 1.84 },
+      { "name": "Under 2.75", "odds": 1.96 },
+      { "name": "Over 3", "odds": 2.20 },
+      { "name": "Under 3", "odds": 1.46 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-10-15 19:00:00+0800",
+    "match_name": "Korea vs Iraq",
+    "team1": "Korea",
+    "team2": "Iraq",
+    "main_bet_list": [
+      { "name": "Korea Winner", "odds": 1.39 },
+      { "name": "Draw", "odds": 3.95 },
+      { "name": "Iraq Winner", "odds": 6.90 }
+    ],
+    "more_bet_list": [
+      { "name": "Korea -1", "odds": 1.63 },
+      { "name": "Iraq +1", "odds": 2.12 },
+      { "name": "Korea -1.25", "odds": 2.04 },
+      { "name": "Iraq +1.25", "odds": 1.75 },
+      { "name": "Korea -1.5", "odds": 2.41 },
+      { "name": "Iraq +1.5", "odds": 1.18 },
+      { "name": "Over 2", "odds": 1.52 },
+      { "name": "Under 2", "odds": 2.16 },
+      { "name": "Over 2.25", "odds": 1.97 },
+      { "name": "Under 2.25", "odds": 1.83 },
+      { "name": "Over 2.5", "odds": 2.17 },
+      { "name": "Under 2.5", "odds": 1.50 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-10-15 20:00:00+0800",
+    "match_name": "China vs Indonesia",
+    "team1": "China",
+    "team2": "Indonesia",
+    "main_bet_list": [
+      { "name": "China Winner", "odds": 2.80 },
+      { "name": "Draw", "odds": 3.25 },
+      { "name": "Indonesia Winner", "odds": 2.19 }
+    ],
+    "more_bet_list": [
+      { "name": "China +0", "odds": 2.30 },
+      { "name": "Indonesia -0", "odds": 1.46 },
+      { "name": "China +0.25", "odds": 1.88 },
+      { "name": "Indonesia -0.25", "odds": 1.95 },
+      { "name": "China +0.5", "odds": 1.48 },
+      { "name": "Indonesia -0.5", "odds": 2.21 },
+      { "name": "Over 2", "odds": 1.27 },
+      { "name": "Under 2", "odds": 2.32 },
+      { "name": "Over 2.25", "odds": 1.77 },
+      { "name": "Under 2.25", "odds": 2.01 },
+      { "name": "Over 2.5", "odds": 2.04 },
+      { "name": "Under 2.5", "odds": 1.71 }
+    ]
+  },
+  {
+    "type": "Soccer",
     "time": "2024-10-15 00:00:00+0800",
     "match_name": "Poland vs Croatia",
     "team1": "Poland",
